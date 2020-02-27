@@ -1,4 +1,4 @@
-Enabled = False
+Enabled = True
 Debug = True
 WaitLoading = 0.5
 editorTimeToSave = 30

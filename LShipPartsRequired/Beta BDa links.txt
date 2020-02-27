@@ -1,0 +1,8 @@
+https://github.com/SpannerMonkey/SM-Marine/releases/tag/v0.9.9.0
+https://github.com/SpannerMonkey/SM_Armory/releases/tag/v0.99.90.10
+https://github.com/SpannerMonkey/SM_AFVs/releases/tag/v0.9.1.99
+https://github.com/SpannerMonkey/SMI_MissilesLaunchers/releases/tag/v0.1.1.0-beta
+https://github.com/SpannerMonkey/SM_OSTandT/releases/tag/V0.1.1.0-beta
+https://github.com/SpannerMonkey/SM_Stryker-Aerospace-and-Armory/releases/tag/v1.1.20-beta
+https://github.com/SpannerMonkey/Large-Boat-Parts-/releases/tag/V3.9.3-beta
+
