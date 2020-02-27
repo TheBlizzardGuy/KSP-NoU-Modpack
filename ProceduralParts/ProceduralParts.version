@@ -1,0 +1,28 @@
+{
+   "URL" : "https://raw.githubusercontent.com/jrodrigv/ProceduralParts/master/GameData/ProceduralParts/ProceduralParts.version",
+   "NAME" : "Procedural Parts",
+   "GITHUB" : {
+      "REPOSITORY" : "ProceduralParts",
+      "USERNAME" : "jrodrigv"
+   },
+   "VERSION" :
+   {
+      "MAJOR" : 1,
+      "MINOR" : 3,
+      "PATCH" : 21,
+      "BUILD" : 0
+   },
+   "DOWNLOAD" : "https://github.com/jrodrigv/ProceduralParts/releases",
+   "KSP_VERSION_MIN" :
+   {
+      "MAJOR" : 1,
+      "MINOR" : 8,
+      "PATCH" : 1
+  },
+   "KSP_VERSION_MAX" :
+   {
+      "MAJOR" : 1,
+      "MINOR" : 8,
+      "PATCH" : 99
+   }
+}

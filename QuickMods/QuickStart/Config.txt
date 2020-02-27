@@ -1,0 +1,15 @@
+Enabled = False
+Debug = True
+WaitLoading = 0.5
+editorTimeToSave = 30
+enableEditorAutoSaveShip = True
+enableEditorLoadAutoSave = True
+enablePauseOnFlight = True
+evenlySpaceToggles = True
+abbreviations = True
+enableBlackScreen = True
+enableStopWatch = True
+gameScene = 6
+editorFacility = 2
+Lang = EN
+KeyEscape = Escape
