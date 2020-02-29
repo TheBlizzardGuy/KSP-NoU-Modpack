@@ -1,4 +1,4 @@
-SHA = 88-E2-3A-34-76-EF-64-E8-AD-B6-D7-E7-71-1D-CA-55-9A-61-4E-5D-A0-DE-4B-CC-96-89-83-6F-42-DE-8D-EE
+SHA = 22-C6-3D-4D-EF-2E-02-96-56-70-44-F5-A0-7F-AC-F1-81-61-59-CA-D5-68-92-66-60-D3-7B-91-44-9C-6F-DC
 version = 4.1.3.0
 KSPVersion = 1.8.1.2694
 FilesSHA
@@ -115,8 +115,913 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = 000_TexturesUnlimited/ColorPresets.cfg
+		SHA = 14-9C-C3-20-39-7B-31-DF-0E-75-62-A4-AE-2A-EC-78-04-49-C4-0D-3A-61-D1-C0-C5-C5-CE-87-AB-75-D6-5F
+	}
+	FILE
+	{
+		filename = 000_TexturesUnlimited/GeneralConfiguration.cfg
+		SHA = CE-43-20-DB-B2-9F-A5-E2-EB-9A-33-CD-BB-27-6B-41-D3-99-B7-52-40-E6-ED-B5-BB-46-60-BD-62-3E-9F-13
+	}
+	FILE
+	{
+		filename = 000_TexturesUnlimited/TransparentShaders.cfg
+		SHA = E4-10-FB-0E-6C-A8-2F-C8-1D-34-B1-21-A3-E4-CA-E6-6D-BB-65-8C-BD-E5-18-64-05-95-F4-DC-7C-A9-08-C9
+	}
+	FILE
+	{
+		filename = 000_TexturesUnlimited/Shaders/SSTUShaders.cfg
+		SHA = BE-33-3B-E6-09-AC-CD-00-36-07-DC-5F-05-E0-03-87-DB-7A-CD-D4-20-C1-52-D0-66-B1-D2-36-22-FD-AC-E8
+	}
+	FILE
+	{
+		filename = 000_TexturesUnlimited/Shaders/TUShaders-Skybox.cfg
+		SHA = 29-39-46-9D-6D-8C-64-AA-85-FF-B7-A9-4E-1F-F1-30-5F-21-A7-42-B1-B5-F1-DE-F9-CF-DE-5E-B4-C4-0D-F3
+	}
+	FILE
+	{
+		filename = 000_TexturesUnlimited/Shaders/TUShaders.cfg
+		SHA = 91-48-8B-2C-80-B6-EE-FE-04-A8-08-31-EA-9D-EA-69-B7-90-7C-80-4F-80-A6-0A-C8-7E-18-C2-6A-40-F9-07
+	}
+	FILE
+	{
+		filename = AirplanePlus/Agencies/Agents.cfg
+		SHA = BE-AE-2F-36-2A-F7-17-CE-06-83-86-4C-21-41-94-82-06-05-F0-9C-0E-EB-F1-0A-E9-E1-87-CB-D4-52-F9-D2
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Aero/flaps/doublefowlerflap.cfg
+		SHA = F3-94-64-20-6A-6C-2E-1E-7C-C4-C5-3D-F5-9E-71-EF-C9-06-5E-30-22-5B-E3-E1-E9-EF-86-7E-82-EA-B2-03
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Aero/flaps/fowlerflap.cfg
+		SHA = 0A-A0-1E-88-05-39-4C-AD-AA-D2-87-F8-40-9C-C6-E7-88-81-AF-44-5D-8E-50-A8-AC-16-52-43-28-8C-D4-33
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Aero/flaps/kruegerflap.cfg
+		SHA = 01-9D-C2-4D-A4-7B-A8-BB-AD-35-C1-F0-94-41-22-B0-A1-BC-D9-9F-16-8C-37-E3-0C-C1-8F-12-A7-59-F6-09
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Aero/flaps/spoilerflap.cfg
+		SHA = 2D-52-BF-75-EE-FF-78-24-AC-99-89-62-55-2E-01-65-88-C4-35-7D-E0-5E-70-FF-AF-E3-40-C7-47-8E-A0-70
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Aero/flaps/straightslat.cfg
+		SHA = EB-75-2F-47-17-E0-CE-40-13-71-A9-F3-F9-65-FF-9A-CD-60-BC-38-58-10-6B-39-E6-AD-5F-F6-DD-E8-9A-9D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/144cockpit/part.cfg
+		SHA = 9B-EF-76-B0-34-5F-55-43-9C-58-C6-37-B0-92-4F-7D-08-DF-12-C8-7C-08-5F-FA-8B-B6-88-BC-82-2D-BD-E5
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/airbuscockpit/part.cfg
+		SHA = 5A-78-4A-2D-F6-03-8A-25-F7-97-EA-17-12-B8-E4-B2-0B-1A-3F-58-27-49-6F-91-67-F3-6B-DB-23-47-E1-48
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/b29cockpit/part.cfg
+		SHA = 5F-B9-1B-5E-5B-6C-28-92-2E-F8-ED-F7-E4-FD-7B-1D-A6-19-3D-4E-E6-D8-BA-A3-61-5D-5D-B1-18-AD-35-25
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/bellcockpit/part.cfg
+		SHA = 9A-53-6C-12-C6-45-65-E5-14-76-49-43-5F-49-EC-1B-A2-D0-24-26-07-3B-25-1F-B7-CF-5B-58-DC-7A-5D-8C
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/bombardiercockpit/part.cfg
+		SHA = CC-CF-AA-75-11-4C-85-15-01-6E-30-A8-DD-18-EB-1D-A5-A3-52-27-32-06-5D-4C-F7-00-88-5A-FC-CD-0A-86
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/cessnacockpit/partcabin.cfg
+		SHA = 46-7E-F6-66-B4-29-28-A5-EA-18-11-5B-62-A4-8B-1C-C7-18-31-A7-46-58-E8-A5-B4-0B-B1-88-4A-C0-FB-CD
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/cessnacockpit/partcockpit.cfg
+		SHA = 07-0A-39-15-B7-EC-C4-69-8E-30-1D-3E-72-68-F5-68-92-C6-77-7F-E3-90-3C-F9-09-5E-05-08-39-FF-FD-30
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/citationcockpit/part.cfg
+		SHA = 64-1D-0E-BA-19-7A-A3-F3-9A-45-59-69-1F-E6-AA-52-B9-91-36-E3-A4-8B-E2-D9-BF-19-D8-06-69-83-C4-ED
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/concordecockpit/part.cfg
+		SHA = B0-76-C6-B0-30-40-B5-D6-C6-05-0F-C1-1C-F5-2F-6A-8E-C4-C1-F5-5C-87-F9-99-4C-AE-35-D2-60-62-85-16
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/falconcockpit/part.cfg
+		SHA = 5B-48-8C-20-44-0F-7D-9B-AD-C6-97-AE-7E-CF-A1-F6-3B-00-06-61-11-58-DE-CE-87-15-EC-14-DE-56-49-EF
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/fightercockpit/part.cfg
+		SHA = E6-36-10-0F-1B-79-F8-8A-CF-DC-22-CC-5E-32-E3-2C-B9-DD-B1-F4-3A-DD-1A-A7-7A-11-30-BE-E0-C3-CB-74
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/fighterinlinecockpit/part.cfg
+		SHA = 0C-5A-4F-AD-14-64-E1-9B-1F-ED-B5-4F-84-21-53-83-46-1C-98-10-85-28-06-E2-F8-3F-FE-8A-B6-6A-58-98
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/galaxycockpit/part.cfg
+		SHA = A3-4D-52-E6-EE-73-67-BD-2C-29-F7-0E-98-B5-44-68-D6-C6-7F-DF-17-5E-7C-C6-37-65-CD-12-51-32-8A-E2
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/herculescockpit/part.cfg
+		SHA = 0A-B0-96-16-02-52-4A-34-B1-A9-DB-FD-78-EC-7C-C9-F4-4E-6B-B1-4B-93-5D-D4-AE-1C-F7-13-2E-7D-7D-1E
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/hipcockpit/part.cfg
+		SHA = 89-3B-AD-27-F7-BA-6F-41-70-D8-32-CB-7C-03-B4-E0-31-EF-B8-AE-FD-5D-96-07-98-57-4D-BC-01-C4-A9-51
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/hueycockpit/part.cfg
+		SHA = 9C-99-AD-0F-06-05-CB-A1-6B-0F-88-09-79-9E-74-F0-19-3F-82-24-A7-40-39-4D-E5-CB-70-71-C2-26-CF-11
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/mk1drone/part.cfg
+		SHA = 7E-34-27-B3-1E-BE-CF-CA-50-44-25-E9-9C-6D-0E-CA-F6-36-7A-5D-C0-52-DF-09-F6-9E-2C-74-53-64-F5-9F
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/mk1drone/partsas.cfg
+		SHA = 96-28-A0-60-63-E2-9C-B9-F7-06-B4-47-72-8E-A4-BD-F8-E2-A7-A6-6B-E3-7B-BC-10-90-FC-1F-72-39-4D-1D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/oh6cockpit/part.cfg
+		SHA = 2C-81-B3-EC-37-C6-E9-67-5E-8E-CF-AE-EB-A8-6B-9C-8B-E6-A9-14-59-8B-BF-34-0B-66-0B-94-C0-F5-9A-E9
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/oldfightercockpit/part.cfg
+		SHA = FB-DA-D3-65-28-C2-C8-A9-74-29-72-4F-28-32-A9-07-FA-31-FA-DB-6D-0F-2B-68-51-21-90-58-E5-27-04-A7
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/x1cockpit/part.cfg
+		SHA = 12-1C-2C-0E-9E-35-A9-4D-B8-E4-6C-B1-C9-52-45-E9-D6-83-F8-55-52-05-44-16-0B-78-A2-5A-CE-86-FA-6D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Command/zerocockpit/part.cfg
+		SHA = BA-E5-79-0B-8A-6D-90-4B-4C-17-17-59-FE-F7-E4-7F-38-C2-45-3B-62-28-D4-64-FF-75-BF-DD-DD-6C-F3-7D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/152prop/part.cfg
+		SHA = 0E-C0-E1-C2-85-6B-37-54-0C-37-3C-2A-0E-4F-3A-D9-78-21-80-74-C9-90-9E-04-38-E7-2C-24-5C-45-8C-54
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/609prop/part.cfg
+		SHA = B9-C5-8A-14-BF-61-E2-B4-CA-86-06-3A-93-A3-BA-58-AB-B8-8F-1E-34-DE-82-A4-77-A4-04-68-54-90-53-D7
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/CF34/part.cfg
+		SHA = A0-35-2D-08-25-0A-BE-DE-59-62-FC-0F-99-54-76-40-6E-53-53-BF-02-D7-C0-A5-A9-FF-12-BB-20-DE-C5-5F
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/CFM56/part.cfg
+		SHA = 90-2B-87-AF-5E-94-82-CC-0F-85-A6-A6-29-A4-E4-4B-69-12-5A-7A-9E-44-95-F9-88-19-4F-5C-8A-72-56-CE
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/f5jet/part.cfg
+		SHA = 45-A0-77-91-65-E4-9D-58-C3-EE-52-F6-22-6B-D9-DC-2B-7F-2F-FF-46-21-64-9A-B6-0D-A3-EE-59-25-C2-08
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/hercules/part.cfg
+		SHA = 26-59-14-6D-C9-93-72-05-81-25-66-C2-BD-61-84-0A-7B-A4-A0-C3-E6-7E-71-68-03-DB-1F-CF-F3-62-25-9F
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/KP-12/part.cfg
+		SHA = 29-92-25-9C-E0-C9-6E-A2-BF-2F-8E-72-FC-FB-94-74-C2-E7-20-49-31-70-ED-14-EE-7A-F4-E5-4B-E2-B7-F8
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/predator/part.cfg
+		SHA = B3-2E-24-69-A5-66-AF-A9-65-B3-BD-3A-78-51-98-72-A8-DD-BF-0B-D5-FF-F1-05-71-17-7B-C4-F9-79-77-C3
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/raptorjet/part.cfg
+		SHA = 63-40-DF-19-ED-E1-02-1B-0E-E2-5F-59-D6-E6-14-1C-70-E4-BC-23-23-35-C2-16-32-14-26-51-70-6D-81-B8
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Modern/tbmprop/part.cfg
+		SHA = D1-6C-2D-15-9E-4B-D8-A6-46-39-C2-3E-54-59-48-9F-00-32-3F-BC-5E-95-B1-B6-49-ED-3B-D4-F2-F1-3A-3C
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/109/part.cfg
+		SHA = 69-A3-FE-A5-95-18-E1-9C-F8-DC-3B-25-11-84-0E-D3-50-C0-9C-82-1E-72-8D-8F-B0-57-52-69-17-F0-EB-BC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/Corsair/part.cfg
+		SHA = 5D-38-BE-D1-36-CB-7B-A3-E4-BB-9B-BD-4A-02-E7-3D-7D-F0-0E-F1-43-63-65-B4-D2-1A-8B-18-5C-24-99-22
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/DuplexCyclone/part.cfg
+		SHA = E2-82-C4-D4-76-4E-D3-A4-22-4D-B4-F0-6F-F5-92-28-BC-97-B2-D7-1C-7D-D7-5E-C7-7A-48-70-2F-4A-72-2E
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/K1710/part.cfg
+		SHA = 61-73-D4-42-D0-53-11-0B-BD-A4-DF-5F-FD-6B-6B-01-E7-E6-81-67-78-A0-33-AA-E9-C3-61-03-DA-F1-05-09
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/Marlin/part.cfg
+		SHA = 95-AE-54-E4-40-F9-F7-35-49-9D-82-3E-2F-1C-05-45-C3-F1-40-8F-5E-77-A5-A0-7F-FD-0C-78-13-A3-98-7D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/Spitfire/part.cfg
+		SHA = 29-16-EB-9C-33-95-A6-68-4F-92-FA-37-00-61-38-01-DF-89-E4-B0-9A-D4-08-69-96-80-12-29-AD-6D-11-1A
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/Yak/part.cfg
+		SHA = D1-EE-AC-44-E5-DB-6D-20-2D-AC-2F-93-CC-01-03-4A-25-DC-00-68-93-00-DF-93-11-3F-42-DF-4E-0B-52-E7
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Engine/Pre-modern/Zero/part.cfg
+		SHA = 4F-D0-9B-56-EB-5A-8A-CA-31-21-EE-19-BB-45-D5-46-FA-E2-D9-B3-07-81-16-AD-F2-15-5D-DE-1E-9B-71-69
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Payload/AirRamp/part.cfg
+		SHA = 28-58-E0-99-9D-F6-D1-A1-AA-1F-71-A8-71-74-62-34-DA-0A-1B-83-55-C8-C5-9F-90-CD-4A-D7-BE-A3-C4-59
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Payload/Mk1Door/part.cfg
+		SHA = 37-F7-7B-9F-9D-0E-B4-2D-1C-1A-CC-97-57-F1-AE-9A-52-C5-6F-7B-93-A2-D8-13-A8-84-9F-68-EC-9E-A4-98
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Payload/Mk1Door/partjr.cfg
+		SHA = 85-ED-FD-F3-D4-BC-92-96-45-BF-52-3D-0B-EB-60-F1-D6-0A-9A-EC-42-0A-24-5E-DE-C7-1B-51-78-82-09-B4
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Payload/Mk1DroneDoor/part.cfg
+		SHA = FD-9B-5F-22-71-BE-29-C2-9E-B4-E1-7B-01-49-30-B9-C9-92-80-14-5C-1D-4A-A9-5B-CF-8C-D0-7C-73-A1-50
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Payload/PassengerDoor/part.cfg
+		SHA = BE-B2-E5-AA-24-75-36-DA-A0-3B-38-76-AC-1A-2B-18-07-2B-71-32-58-84-C7-5B-6E-FF-6B-AD-EB-8A-03-09
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s0-s0.cfg
+		SHA = 0F-B3-96-74-F0-02-B8-5A-99-53-49-01-87-B7-BA-D4-5A-FA-E1-84-88-D8-91-52-48-C3-47-D8-60-E3-77-0C
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s0.cfg
+		SHA = A1-EC-64-76-1A-31-AB-45-1D-17-87-21-17-A9-53-BD-41-31-57-60-2C-49-F4-DA-E6-8D-B3-CE-E9-0C-32-F2
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s0booma.cfg
+		SHA = 8C-3D-7A-EA-01-1D-D0-60-A5-97-E1-B1-98-BE-D1-A9-14-1A-4F-DE-86-8C-CD-04-67-7C-B7-CA-84-F2-98-EC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s0boomb.cfg
+		SHA = 17-69-7B-26-F2-F8-AB-73-0C-67-29-E3-A0-72-28-B6-73-2E-4F-3F-F3-B3-64-F5-13-79-B3-4B-01-85-70-46
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s0jr.cfg
+		SHA = 06-E4-34-8E-E8-2C-77-43-69-F6-48-70-DD-E7-2F-C8-C5-B8-3B-FD-EB-CE-2E-1E-14-CD-E5-9C-82-8F-2B-37
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s0nose.cfg
+		SHA = DF-4A-13-08-C9-1F-2C-83-EE-6D-FA-AF-A9-4C-54-F9-9A-1C-A4-F2-13-58-85-6B-83-5E-B3-52-D4-35-AC-5A
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1-s1.cfg
+		SHA = FB-F0-2D-9A-3A-5A-56-70-2F-16-77-7C-A2-9A-4B-27-79-FA-0B-14-20-A7-9B-46-25-BC-A8-61-A3-94-7D-15
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1.cfg
+		SHA = 80-3F-17-86-93-BD-A9-0E-08-9A-AB-B3-0C-EC-3E-84-38-09-8C-0B-11-BC-EC-16-38-36-AC-F5-C3-BA-DF-E4
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1booma.cfg
+		SHA = C4-73-FA-3E-5B-47-D0-51-F1-E0-19-A2-6D-4D-04-72-5D-2D-BB-E3-A2-B1-E0-48-57-82-6C-69-E7-24-57-D2
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1boomb.cfg
+		SHA = E2-B3-FF-ED-16-47-FA-83-36-47-58-28-4E-2C-BF-88-A6-A2-9E-AF-B7-FC-0B-CA-77-18-4D-62-8A-AF-63-BC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1intake.cfg
+		SHA = 3A-1D-AD-05-88-F0-B8-83-B2-23-95-09-34-A2-BF-9B-D3-2C-FB-B1-37-BC-D2-69-6D-76-8F-2B-E8-48-2C-2A
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1jr.cfg
+		SHA = CE-BD-82-2D-89-A2-7B-9D-12-77-CA-D9-54-5E-D6-2D-3C-3D-41-EE-8D-A2-13-84-02-C1-A7-C6-AE-E7-2F-E7
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/mk3s1nose.cfg
+		SHA = 5C-0B-10-43-A4-41-EB-5C-57-DB-F2-5C-76-A4-A8-B4-C9-8D-73-5C-6C-18-EB-B3-20-71-90-E9-0E-06-56-A4
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/s1p5.cfg
+		SHA = C1-0E-6C-78-A6-4E-3D-F7-67-6C-E0-EC-98-5B-60-B6-8A-17-5B-16-E3-93-07-76-C3-B9-4C-F4-2A-BD-3E-98
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/r22set/s1p5jr.cfg
+		SHA = E8-51-ED-DB-E0-40-28-C0-78-5F-B3-01-C0-41-38-02-F4-25-8B-E0-89-FF-C4-52-5B-89-C9-A9-AA-D3-AE-6F
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2boom/parta.cfg
+		SHA = 63-42-9E-A4-13-9F-D2-15-AE-F6-0B-5F-24-E5-B1-6D-F5-41-DF-02-F6-2D-FC-E2-24-8E-25-3E-7B-96-6D-15
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2boom/partashort.cfg
+		SHA = 37-D7-3C-33-9C-A0-D3-4A-BA-C1-EF-0B-25-E5-E7-FE-11-1F-75-CD-95-86-FF-D9-C2-A1-AE-1C-5D-DA-F8-D4
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2boom/partb.cfg
+		SHA = 13-FD-F3-33-07-78-EF-F9-2A-F3-1D-02-8F-DB-D7-60-88-2E-61-C3-63-20-7B-09-32-51-26-8E-6C-4D-64-5C
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2boom/partbshort.cfg
+		SHA = B5-62-D4-59-CE-38-04-9D-32-FD-F7-FB-48-1E-D7-3D-8C-ED-14-80-75-A3-36-DE-90-7F-31-28-B9-FF-C0-8E
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2cargo/size2hull.cfg
+		SHA = FF-82-06-6D-C4-4B-72-AA-E3-72-F9-F5-65-EA-EF-DC-37-E2-57-72-93-A2-FD-DA-C9-53-A5-DC-ED-59-D4-06
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2cargo/size2ramp.cfg
+		SHA = F4-9A-A1-6D-4B-57-4A-5F-13-80-D0-76-A4-83-F1-49-40-02-CD-1F-D8-8F-10-3E-6D-1C-65-86-22-65-E4-8A
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2cargo/size2short.cfg
+		SHA = 2E-58-C9-6E-C0-1D-A7-17-03-0E-97-C9-94-D6-BC-0D-E7-7C-E6-95-AA-55-FB-72-E3-B7-25-E8-5B-94-D6-C3
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2parts/size2cabin.cfg
+		SHA = 37-7C-23-78-D1-4B-6D-D5-5A-65-F5-F9-5C-8F-76-59-85-8C-66-2E-AE-E0-85-0F-4A-D6-27-EC-1B-D3-02-CF
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2parts/size2tank.cfg
+		SHA = CA-BC-C6-23-67-8A-C1-47-B0-73-4C-1E-EE-9E-1D-C7-79-50-E6-63-AF-2A-80-B4-27-5A-28-08-41-A7-3F-A8
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2parts/size2under.cfg
+		SHA = E5-79-06-68-67-3F-5B-B9-D5-87-49-D5-9A-55-02-69-10-64-B4-D6-D5-6E-B1-DB-EC-88-59-FF-F2-53-14-F2
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/size2structural/part.cfg
+		SHA = A0-41-E1-E4-B9-BF-FB-F8-98-E5-08-FA-1B-65-05-D5-EA-7F-C8-B9-E4-B7-8E-DA-79-1A-24-4B-78-26-DA-DB
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Utility/Skid/part.cfg
+		SHA = FE-79-7A-A7-B8-DF-BD-87-A7-BC-B7-4D-62-08-EA-2E-AF-0D-58-74-29-CB-7E-42-34-97-8C-BB-1B-B7-F2-D0
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/biplanegear/part.cfg
+		SHA = 07-62-3B-5F-E2-F3-A1-DB-C9-76-78-30-61-16-D6-69-EF-E5-76-A6-EC-13-C6-9C-3E-58-FA-0C-D8-AC-86-BC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/blackhawkgear/part.cfg
+		SHA = 34-4F-40-93-55-08-00-96-CD-E4-6E-8B-41-3B-96-E1-11-EB-CA-AA-7B-B9-D5-4F-2B-A7-F0-61-4A-9F-14-0B
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/miggear/part.cfg
+		SHA = A1-8A-CE-DD-3D-29-3D-9E-8D-C3-65-F3-A1-3A-7B-0C-91-20-30-D4-5A-B6-20-C6-11-51-F3-82-00-F0-DC-4E
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/airbusgear.cfg
+		SHA = C7-AC-C7-7F-30-FA-0D-93-B6-77-0D-48-E1-20-2C-B7-FF-01-CE-67-3D-1B-BA-70-73-1C-4B-3C-A4-99-EF-38
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/b29gear.cfg
+		SHA = 15-DD-B7-C1-01-96-E6-EB-CB-BD-2E-46-09-C1-CE-3E-19-B7-CC-33-D6-20-43-ED-02-17-43-05-FD-B8-C5-C8
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/fightergear.cfg
+		SHA = D0-E0-70-08-55-1F-93-2D-04-44-3F-79-31-90-6A-40-0D-1D-6B-D2-87-30-2B-EA-71-F9-69-60-34-26-1F-AC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/herculesfrontgear.cfg
+		SHA = 24-DC-75-4B-F8-7D-1C-7E-B1-79-22-5F-77-23-91-AB-64-CC-5F-C8-6B-A5-88-B4-D5-DC-D3-15-A8-51-F2-17
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/herculesgear.cfg
+		SHA = 9A-4C-0D-0A-1C-B2-C5-0A-B7-4A-BB-4D-CE-CC-F1-8C-75-14-34-9F-73-5D-D8-D0-97-60-B4-ED-31-D6-BD-0F
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/sidegear.cfg
+		SHA = D3-24-4C-03-56-DE-3C-F4-ED-89-14-65-0A-A5-26-C6-0E-46-BF-2B-EA-E2-21-73-0F-1D-75-29-FE-1D-21-32
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/x1frontgear.cfg
+		SHA = BF-5A-30-19-FC-2E-2C-C6-A1-39-33-E0-C6-D8-72-3F-5E-21-12-41-85-B1-2E-1B-E8-D7-26-B5-21-88-9F-C0
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Wheel/sharedgear/x1sidegear.cfg
+		SHA = 6D-FE-A3-01-D1-95-32-3F-D5-1A-F6-B2-02-3B-58-75-FF-8A-34-39-44-B1-19-6C-CC-C8-C5-16-C2-51-FF-22
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/attitudeprop/prop.cfg
+		SHA = 42-3C-DB-E0-E7-14-11-07-A1-5E-06-29-FB-AD-49-8C-F3-4D-EF-58-7F-D7-19-2E-9B-72-CE-89-E7-9A-5C-70
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/brakeprop/prop.cfg
+		SHA = B0-C8-28-F5-2F-99-14-A8-11-52-19-C5-28-81-3E-60-E8-4D-31-93-83-36-DB-EB-DF-28-7D-91-63-C5-83-D1
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/compassprop/prop.cfg
+		SHA = AD-3C-62-60-83-E9-4C-E6-73-BE-EE-1F-3B-94-FA-66-81-D1-6F-65-BB-CE-DF-03-0D-D0-35-2F-2D-B2-3B-03
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/controlstick/prop.cfg
+		SHA = 9D-72-E6-31-15-23-7A-B5-C3-2D-D6-F1-E3-9A-13-21-B2-73-60-43-AB-1A-88-91-DA-11-00-86-38-54-94-41
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/ejectseat/prop.cfg
+		SHA = 74-A8-50-2A-BF-DE-9A-21-C7-CF-5A-2F-BC-D1-5D-16-7C-58-91-51-EB-62-3D-27-85-B9-9D-0B-58-FA-B6-F4
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/extinguisherprop/prop.cfg
+		SHA = 8A-F6-64-D8-73-AF-AD-CE-E2-E5-AC-1D-E4-C5-CE-7E-87-DC-02-A6-96-3B-44-8D-BE-A1-01-A0-87-8F-26-54
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/fightercontrol/prop.cfg
+		SHA = 73-17-2A-22-2D-91-4A-90-92-50-7D-DE-BD-62-3F-A9-6C-0C-E3-5B-1B-C5-03-FB-3D-3B-0B-5F-F9-C3-ED-CC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/fightercontrol/proppedal.cfg
+		SHA = 4F-0F-A4-45-7C-06-29-38-18-9E-8A-D7-79-97-4F-C4-72-6B-50-FC-59-79-E4-32-9A-B4-FD-5B-83-7E-C4-6B
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/fighterseat/prop.cfg
+		SHA = 61-46-57-C4-4C-99-8C-7E-B8-4B-DB-E3-D1-BD-D2-87-DC-C8-6A-5D-E9-F9-0A-E0-52-95-88-FF-63-49-7C-B3
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/gearswitch/prop.cfg
+		SHA = E6-B0-00-68-D3-7F-D8-CB-27-3E-C4-E3-1B-D2-DA-E6-07-8D-08-09-69-9A-D5-9B-4E-56-02-45-53-23-C1-37
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/heliseat/prop.cfg
+		SHA = 44-92-72-BB-7A-25-97-55-EF-C0-B1-96-9F-18-21-8E-05-43-80-16-0D-77-7A-BC-C7-1F-4F-A7-BD-67-B9-F1
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/helistick/prop.cfg
+		SHA = 90-12-AF-51-DC-8C-29-A9-40-5E-8E-4C-87-11-6B-26-B0-6C-AE-1C-37-84-AE-3A-C7-1B-51-90-DF-23-08-10
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/hoverprop/prop.cfg
+		SHA = C5-C7-B0-9E-96-D2-E9-D8-54-5C-5B-AC-2D-B2-1F-4D-F7-65-DC-0E-6D-0B-84-1B-72-42-13-A5-0A-91-5E-C8
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/keyline/prop.cfg
+		SHA = 9F-62-7B-09-83-6D-06-30-70-80-FD-56-F3-CD-11-CE-65-AD-5C-8A-39-76-05-0F-01-F6-C0-78-9E-D6-6A-FC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/keypad/prop.cfg
+		SHA = D7-02-A1-48-6F-77-65-2A-FE-A1-15-4A-D8-92-E3-BB-A4-85-A1-A5-C1-35-F3-08-58-53-66-1C-76-DA-DF-65
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/lightswitch/prop.cfg
+		SHA = 9F-47-07-84-7E-6A-D5-52-24-1F-4F-A4-E0-9C-79-DA-3B-E2-CA-0F-90-E2-B4-BA-33-9C-76-4D-E6-D7-B9-CC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/monitor/prop.cfg
+		SHA = 23-47-E2-77-B4-14-69-81-FB-F0-35-CF-58-C4-29-89-21-50-1D-E0-D5-88-EA-67-6D-46-F2-69-70-DC-7A-0E
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/oldattitudeprop/prop.cfg
+		SHA = 64-ED-1A-4E-A5-D8-1B-D2-5B-BF-79-8C-B9-B1-7E-97-82-45-51-5E-F9-0E-F4-80-DB-3C-81-1E-FD-67-E7-3B
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/platformprop/prop.cfg
+		SHA = EE-38-D8-EB-77-9F-BA-33-BB-A3-32-D5-BE-07-46-34-26-94-C1-AC-06-58-E1-77-B8-4F-DB-1A-E7-AE-5E-1D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/sasswitch/prop.cfg
+		SHA = 5F-9B-61-BC-0C-55-31-92-F4-17-DE-FA-10-24-F5-9D-B7-5B-9F-14-E4-CC-17-9F-97-5D-25-0F-0A-8D-D0-CC
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/startprop/prop.cfg
+		SHA = 5E-1D-E2-4C-23-D6-FE-7B-94-AA-5F-D4-79-91-2D-20-9C-08-CD-9A-B9-09-E4-43-E8-DB-C5-0D-8E-29-FF-3F
+	}
+	FILE
+	{
+		filename = AirplanePlus/Props/turncoordinator/prop.cfg
+		SHA = D8-73-E4-1D-48-5E-40-59-00-6C-5E-0C-F7-3F-9D-B5-54-4C-DE-5D-9F-7D-7F-F9-71-61-8B-25-8A-C6-CB-AA
+	}
+	FILE
+	{
+		filename = AirplanePlus/Sounds/Patch/Goliath.cfg
+		SHA = F5-9C-89-3F-86-26-EA-4C-1F-4B-AF-04-E8-CE-E4-A1-18-A7-CD-1A-20-AF-1A-35-CD-F4-93-0D-47-B2-F3-D6
+	}
+	FILE
+	{
+		filename = AirplanePlus/Sounds/Patch/Juno.cfg
+		SHA = A4-AB-58-2D-32-6F-43-B6-FB-07-FB-C3-BA-E1-A8-93-81-0E-13-6A-F1-80-CE-8D-57-DA-97-64-5F-1D-1F-E1
+	}
+	FILE
+	{
+		filename = AirplanePlus/Sounds/Patch/Panther.cfg
+		SHA = 90-B6-EF-5F-1F-5C-0D-30-D7-79-E2-76-A0-10-93-23-E8-80-B1-53-39-51-59-88-4B-23-A2-0A-6D-D1-DB-7D
+	}
+	FILE
+	{
+		filename = AirplanePlus/Sounds/Patch/Wheesley.cfg
+		SHA = CA-EB-C6-59-48-A4-79-9D-4A-F0-E9-F1-A7-0D-1F-69-10-4E-07-38-20-87-54-36-3E-65-15-7F-5B-8B-9B-AE
+	}
+	FILE
+	{
+		filename = AirplanePlus/Sounds/Patch/Whiplash.cfg
+		SHA = 79-76-D0-8C-70-F8-15-93-2C-6B-E0-12-FE-6E-49-F0-35-30-7F-46-C2-11-8A-83-07-9E-25-BF-4C-FB-97-FE
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/144interior/internal.cfg
+		SHA = 36-A5-37-D4-E7-D9-0A-7B-0B-97-5E-CB-73-02-8E-AB-AB-22-DC-2B-C9-06-47-C1-98-6B-66-30-12-0A-8C-B9
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/airbusinterior/internal.cfg
+		SHA = FC-FD-D7-CB-19-54-FE-09-FE-5C-CC-D1-8F-E1-B6-CD-7B-C8-21-BE-A3-49-C5-E6-85-DE-09-53-F4-CE-9C-32
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/b29interior/internal.cfg
+		SHA = B5-A3-40-17-79-19-87-43-2C-08-9A-D6-61-1B-08-81-54-D5-C5-E3-1C-EC-8A-CA-92-F7-C3-0B-57-1B-86-7C
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/bellinterior/internal.cfg
+		SHA = 4A-93-81-74-16-44-49-19-03-25-58-38-C3-CE-BF-33-92-27-E1-20-E9-15-B3-07-71-09-ED-DD-D2-2D-49-06
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/bombardierinterior/internal.cfg
+		SHA = BA-B7-26-15-81-67-E1-C6-7B-4C-6C-98-80-4D-E8-B7-14-F0-EA-CF-A8-13-6A-C8-F0-A8-D9-59-07-02-C9-2A
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/cessnacabininterior/internal.cfg
+		SHA = 86-48-3B-5D-13-B3-DB-AA-34-7F-31-8A-8C-FA-1E-5B-B1-22-E7-1E-1D-7E-B7-5B-64-F0-3F-FB-E9-06-7F-44
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/cessnainterior/internal.cfg
+		SHA = 92-D2-F0-63-B9-35-41-AF-70-96-5F-66-E7-44-8F-22-82-E1-3A-E9-7F-DE-BE-6E-09-97-EF-45-C7-6C-79-48
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/citationinterior/internal.cfg
+		SHA = A3-17-92-18-91-D0-BB-C7-99-2E-54-37-B6-51-1F-ED-34-6A-55-69-E6-44-3B-AF-6D-2E-C2-31-6A-D7-EE-57
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/concordeinterior/internal.cfg
+		SHA = 48-0F-F6-46-07-82-F0-09-EF-E6-53-51-CE-AC-E5-20-C1-4D-09-F6-D4-A4-4F-89-AB-90-3B-D2-1E-7E-19-69
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/falconinterior/internal.cfg
+		SHA = F9-D7-4B-FA-7F-5C-C5-81-E2-63-3B-0F-7E-01-83-A5-28-4D-C7-ED-1F-26-E8-E8-D3-40-4E-5E-A6-55-3B-F0
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/fighterinlineinterior/internal.cfg
+		SHA = 7B-D9-62-D5-40-FD-13-86-F1-44-16-9C-7E-AB-4A-D5-C9-65-B9-D0-EB-E9-C1-06-EC-2D-3B-D6-F2-56-F0-90
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/fighterinterior/internal.cfg
+		SHA = 56-EF-85-81-D2-28-5A-68-B8-BC-CE-F4-AD-BA-CE-D2-E4-26-70-5F-09-A7-59-CD-CB-11-57-52-5A-E2-55-11
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/galaxyinterior/internal.cfg
+		SHA = 9A-C6-C8-03-12-89-84-A7-D5-CD-2B-53-8F-16-AC-42-E9-AC-DD-D9-28-4F-0B-A9-26-06-8B-C4-94-B3-33-68
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/herculesinterior/internal.cfg
+		SHA = 4D-37-B6-52-53-53-16-ED-D9-4A-8E-BF-96-37-64-58-97-BA-22-2A-E4-3C-2D-40-17-AA-10-BD-4D-F1-F0-08
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/hipinterior/internal.cfg
+		SHA = 66-3D-1A-3F-C6-CA-4F-B7-1C-82-0E-85-66-9F-37-AD-8C-25-C9-3E-DB-EE-AA-11-2C-28-1B-E2-3A-46-30-A1
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/hueyinterior/internal.cfg
+		SHA = C2-40-C5-D1-CC-64-A0-C6-24-43-FA-75-31-ED-96-5B-DB-35-53-B7-4B-37-18-E9-31-50-A8-F0-5D-63-2A-8A
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/oh6interior/internal.cfg
+		SHA = 2D-93-49-D0-0E-D9-32-2E-0F-43-90-B9-60-34-9F-33-E8-87-CC-19-55-65-78-D9-E1-0C-F0-3E-32-3A-87-9C
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/oldfighterinterior/internal.cfg
+		SHA = A3-11-3C-EE-24-3E-B6-CC-23-2F-48-91-8A-32-FA-A9-65-43-40-D0-1D-F0-57-A3-3B-A1-28-09-E1-11-E0-DE
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/s1p5cabininterior/internal.cfg
+		SHA = FD-92-37-50-74-D4-6B-91-B3-62-B9-E4-94-E6-7B-B6-9B-1B-AC-66-3E-63-12-FA-C3-E9-38-C3-F5-24-50-53
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/s2cabininterior/internal.cfg
+		SHA = 0F-34-C1-6B-5E-64-A3-08-37-04-05-07-5F-9C-A2-C7-ED-89-86-70-2D-D3-83-6B-BE-45-BA-E9-0B-24-B3-E6
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/x1interior/internal.cfg
+		SHA = 59-AF-90-75-60-4B-2A-99-05-A8-CC-9E-22-54-86-E4-EA-24-4B-76-2C-C4-68-21-B0-6C-D0-62-58-B8-2E-4B
+	}
+	FILE
+	{
+		filename = AirplanePlus/Spaces/zerointerior/internal.cfg
+		SHA = 44-92-34-77-8E-9D-CB-9C-78-CB-3A-65-4F-CE-7B-01-FB-2B-C6-5B-36-F5-6D-85-C2-36-7C-45-2E-5C-2D-82
+	}
+	FILE
+	{
 		filename = AtmosphereAutopilot/csurf_sync.cfg
 		SHA = EB-17-A5-91-C9-56-5F-57-5C-DF-82-48-4E-6B-33-59-D2-59-06-E4-BD-82-79-1D-45-6E-82-61-48-CD-F1-BE
+	}
+	FILE
+	{
+		filename = AviationCockpits/Command/Interceptor.cfg
+		SHA = 48-43-F8-EE-74-37-55-1B-F7-5E-67-80-CD-D3-BC-B2-4B-12-67-3F-E5-BD-33-EB-CA-A6-3F-9A-CE-F6-AA-9F
+	}
+	FILE
+	{
+		filename = AviationCockpits/Command/Mirage.cfg
+		SHA = 9A-A8-56-04-43-58-1A-08-37-DA-93-04-1C-2B-5A-D9-B6-25-11-CE-9F-51-54-A2-E9-10-39-6A-20-06-09-EC
+	}
+	FILE
+	{
+		filename = AviationCockpits/Command/S39.cfg
+		SHA = EF-5C-5C-2A-C6-03-D0-56-FF-CD-43-9E-76-1C-CB-B6-CE-60-D7-3E-03-EE-28-95-B0-99-8E-68-2F-DE-61-5D
+	}
+	FILE
+	{
+		filename = AviationCockpits/Command/Su30.cfg
+		SHA = 56-84-72-84-10-14-90-05-4D-E2-B2-FC-12-6F-E1-02-05-3B-29-ED-36-5E-2F-25-C7-AC-50-0E-60-89-C3-EC
+	}
+	FILE
+	{
+		filename = AviationCockpits/Command/Trainer.cfg
+		SHA = F4-4C-CC-84-9A-08-D2-1A-CB-B1-EF-94-41-C6-8E-63-CC-99-E3-B6-D4-40-19-AD-D4-14-A6-F3-2A-48-45-D6
+	}
+	FILE
+	{
+		filename = AviationCockpits/Command/Typhoon.cfg
+		SHA = 0A-E2-DA-1C-B8-1A-E8-93-C5-4C-5A-87-FE-76-D5-C0-4A-75-D5-F8-02-7A-D2-24-58-8B-2B-F3-C4-E6-9A-5A
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/GunSight/prop.cfg
+		SHA = 46-FE-D4-BE-8A-F4-08-48-7B-16-FC-D6-25-80-38-5A-F5-05-27-B9-BB-A8-C1-5F-EC-B9-F5-EB-09-7E-95-2B
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/GunSight_Pipper/prop.cfg
+		SHA = 0E-3B-E3-1C-58-1A-8B-C1-00-83-B4-63-30-2E-72-99-7B-8E-EB-9C-D2-1C-5E-B5-1B-7D-42-41-14-23-75-24
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/Gunsight_Round/Gunsight_Round.cfg
+		SHA = 13-09-1E-BF-89-08-ED-72-4C-31-5F-09-63-B6-E5-E9-FB-57-6B-81-B8-6D-B3-AA-E1-E4-BE-52-08-65-11-61
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/Gunsight_Round_Pipper/Gunsight_Pipper_Fw190.cfg
+		SHA = AD-2A-D4-4F-EE-56-C3-64-46-91-69-E9-3A-AE-B6-D6-EC-36-B1-12-BC-D0-F4-A5-5D-D7-C8-74-2D-18-88-52
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/Gunsight_Round_Pipper/Gunsight_Round_Pipper.cfg
+		SHA = BA-64-A0-9B-53-FF-AF-1C-E2-43-FE-BA-2A-78-D3-8E-3A-2B-6A-99-C6-82-22-F8-5F-C6-E7-41-EE-A6-FF-39
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/Hud_2/prop.cfg
+		SHA = AB-D9-B7-D0-17-B4-EE-E8-71-42-8F-3A-91-4D-CA-5A-11-C0-55-13-67-77-A6-D0-A1-2D-5C-4B-F1-81-ED-D3
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/Seat/prop.cfg
+		SHA = F5-69-19-79-91-1F-F4-F1-F9-AD-4E-1F-3A-80-CB-F7-00-75-99-10-F6-93-5F-59-3D-98-40-F4-C1-C5-1E-56
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/Adi.cfg
+		SHA = C6-0A-93-E5-F0-CB-85-F6-0D-D4-41-BF-50-EA-38-E6-44-4C-93-BA-E1-7D-A4-C0-18-17-F5-DD-9D-A0-13-84
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/Adi_2.cfg
+		SHA = DD-41-12-A0-60-26-0D-0D-0D-85-1D-03-16-4B-8E-53-26-8F-5C-69-B0-4B-40-73-3E-CB-0A-A5-85-24-81-F7
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/EAS.cfg
+		SHA = 08-37-4D-15-C1-B5-E6-7F-C4-1A-60-2B-00-D9-D1-1A-D5-5D-21-83-46-D4-23-94-4A-05-7A-29-AB-46-A9-70
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/Hud_1.cfg
+		SHA = 96-A2-76-29-71-97-47-31-9C-F4-7C-3C-28-30-DA-BF-69-89-57-51-6A-B1-47-67-70-3F-94-EC-77-F8-F1-3B
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/Hud_3.cfg
+		SHA = 09-E4-DA-85-A3-7A-DA-80-93-94-58-36-C3-A8-B6-2B-99-84-1D-57-30-76-04-6A-F4-8B-6B-C7-FB-89-19-AC
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/NALT.cfg
+		SHA = 30-1C-4B-0D-AD-88-14-24-35-B1-E9-57-67-B3-2B-96-65-D4-74-20-88-1C-E8-76-9D-C0-27-E6-15-EF-91-BF
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/NSPD.cfg
+		SHA = BF-39-9D-7E-B2-8F-34-2E-05-D8-02-D3-FD-34-B6-F7-81-E0-02-9E-0A-61-B1-30-13-BE-8D-71-0E-C3-71-B7
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/Pitch.cfg
+		SHA = B4-B9-FB-B9-03-89-BB-D8-15-94-A2-F7-8E-5C-A5-1C-7E-28-55-45-44-C3-3B-92-CB-E7-AC-40-00-B3-22-C8
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/Prograde.cfg
+		SHA = FB-6A-FD-DF-B8-7C-34-A8-C3-78-6B-95-2A-2C-D5-28-62-90-06-62-EC-FA-48-4E-12-3B-AF-76-31-C4-77-9D
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/SBrake.cfg
+		SHA = C9-86-7F-B1-79-A6-1E-AF-C4-FB-E3-E5-46-75-90-D6-0C-32-39-41-0C-2B-FA-DF-02-6B-38-6F-73-62-6F-BA
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/SGear.cfg
+		SHA = 44-C9-61-C2-2D-9D-AD-13-F6-4C-BA-D5-1F-87-7D-85-6B-9D-1D-4C-66-8B-90-51-F7-E8-59-32-5B-35-39-5A
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/SLight.cfg
+		SHA = 73-C9-C1-CA-01-C0-28-5D-77-C7-4D-A0-C2-55-24-B1-72-2C-BA-59-CB-09-CB-33-E5-5A-D3-43-7C-4D-A8-16
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/SSAS.cfg
+		SHA = 41-FC-B6-24-F8-78-A4-9C-79-EB-92-88-56-82-21-85-96-EB-9B-3D-87-DB-92-CF-BB-9E-F0-98-96-8D-CF-61
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SharedTextureProps/HUD/Yaw.cfg
+		SHA = 65-B1-EE-41-91-C1-27-67-4D-DB-44-62-FD-20-9F-30-3E-B5-B9-81-A1-4D-14-B9-9B-89-F7-53-90-BB-B4-A5
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/SimpleRadar/Prop.cfg
+		SHA = 05-BE-07-FF-A5-DE-6B-5D-54-B8-F9-85-7A-13-27-B9-5B-3F-15-F9-E7-AF-DD-B3-46-FF-5F-6B-F1-C3-B1-10
+	}
+	FILE
+	{
+		filename = AviationCockpits/Props/Stick/prop.cfg
+		SHA = 2E-5D-D0-85-5E-73-30-6F-E7-7A-C3-3B-83-B6-32-17-79-63-BD-B5-B4-5E-71-B5-E2-57-47-94-E9-9B-75-46
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Bearcat_internal.cfg
+		SHA = E1-A8-A7-08-A0-02-02-FF-F0-44-69-96-6F-10-2B-76-C8-D5-E1-3D-4E-36-29-64-9F-0C-90-28-E6-C0-9E-58
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Fw_190_internal.cfg
+		SHA = 40-5B-06-31-4F-0D-73-9C-A3-CF-05-90-94-77-B5-E5-63-1B-5E-EE-13-3F-F5-5A-B0-F9-E8-9E-BC-67-57-0A
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Interceptor_internal.cfg
+		SHA = FB-25-E2-36-6D-BC-59-D7-5C-D2-3F-6C-77-69-EF-F7-51-1C-C1-68-BA-29-D2-16-DD-D2-F7-B6-51-B1-92-32
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Mirage_internal.cfg
+		SHA = 04-FD-32-F1-26-43-AB-C6-33-5D-17-30-EC-E0-B5-4F-41-45-C1-20-E6-50-D8-A3-CA-34-A4-CA-BF-78-08-49
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/S39_internal.cfg
+		SHA = AC-B0-24-23-64-EE-4F-41-B8-6A-07-71-27-67-1E-20-B8-95-E9-5E-B2-3A-D7-8A-F3-88-77-EA-93-FB-F5-E2
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Su30_internal.cfg
+		SHA = 2B-7E-9A-FA-77-F4-41-93-25-65-45-04-0C-6B-93-5C-6C-7C-6C-78-DE-B2-CC-86-05-93-0B-34-7B-31-57-38
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Trainer_internal.cfg
+		SHA = EE-68-BB-76-62-80-73-68-FE-70-FB-07-BE-2B-02-A4-68-74-8D-95-E2-8C-57-93-20-82-5C-89-14-D9-5A-F2
+	}
+	FILE
+	{
+		filename = AviationCockpits/Spaces/Typhoon_internal.cfg
+		SHA = 9D-15-2E-76-FC-68-4C-3F-AF-12-24-24-2C-E6-FE-13-7A-C3-01-E7-10-37-90-6A-33-FF-4F-F1-70-7C-9C-D0
 	}
 	FILE
 	{
@@ -161,7 +1066,7 @@ FilesSHA
 	FILE
 	{
 		filename = BDArmory/settings.cfg
-		SHA = B9-72-B0-2F-44-BF-D0-E5-FC-D0-B5-63-67-D6-97-7F-98-16-DE-9D-CB-0F-E4-CE-FD-A7-66-A5-EF-CB-A1-61
+		SHA = 08-1D-63-B1-63-4B-EA-ED-C6-CC-5F-84-9F-47-EA-51-90-CB-58-2D-97-AB-AB-39-5D-DB-E6-44-24-21-83-0C
 	}
 	FILE
 	{
@@ -1185,6 +2090,266 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = KerbalFoundries/DustColors.cfg
+		SHA = 65-60-B2-FE-77-8C-82-47-9C-29-12-26-4C-9B-40-62-CD-1F-23-64-F3-99-84-73-E8-AA-E9-D7-64-34-CF-DD
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/ALG-Large.cfg
+		SHA = 96-EA-90-FB-6F-CD-CA-8A-D1-0E-36-BA-E7-40-E6-E8-E9-53-EA-3B-7B-FA-A5-61-E8-09-67-46-F7-16-E0-51
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/ALG-Medium.cfg
+		SHA = FC-DC-59-2E-13-E8-4B-F8-D2-D6-DC-D6-AE-C5-AD-D4-F2-64-FB-79-7C-F3-B2-6C-95-A0-D6-4F-9B-8F-A8-B3
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/ALG-Small.cfg
+		SHA = F2-39-FB-93-6E-A0-C5-95-74-68-2B-2F-36-1D-91-AD-87-75-FE-03-88-47-F9-18-A1-19-7F-3B-F9-78-CF-BE
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/ALG-SmallSide.cfg
+		SHA = D0-67-F3-0F-DA-02-17-47-80-54-76-A6-24-55-72-A3-31-8F-36-D8-05-68-8E-FA-21-D9-07-7A-14-B1-C5-D9
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/FE_Mod_KerbalFoundries.cfg
+		SHA = 85-58-8C-A8-2D-7F-C5-D6-93-44-AC-C0-27-0A-0D-33-14-92-EF-0D-59-63-34-49-0F-C3-D9-DA-F0-3E-B3-85
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-APU.cfg
+		SHA = 35-7F-42-CC-C6-3E-E3-02-C6-A0-B5-62-45-1A-7F-F1-1D-06-4D-72-47-27-1A-66-26-83-BB-B9-3F-4D-8E-CD
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-LegAero.cfg
+		SHA = 4E-B6-15-8F-3B-EB-B3-CE-32-A9-7E-57-9C-1C-24-2E-58-B2-9C-77-B3-79-2B-3A-F6-C1-37-21-B6-34-A6-B5
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-LegExtending.cfg
+		SHA = F6-CA-CF-3F-79-26-FA-45-7E-DF-2E-FF-2B-90-B2-3C-CE-8D-91-65-C9-89-A0-3E-BF-13-B8-BA-82-B3-84-E3
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-LegFolding.cfg
+		SHA = 29-6E-52-1A-51-96-82-F3-55-D7-9C-B7-F8-59-7F-3C-84-94-21-F4-44-78-25-3C-98-72-21-71-D9-DC-BD-62
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-RepulsorStandard.cfg
+		SHA = 9D-22-94-2F-5B-1F-52-E6-8E-1A-F5-EC-90-69-DC-C9-E5-73-FE-B2-EE-AE-28-B0-C8-7F-A6-00-E8-D6-15-44
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-RepulsorSurface.cfg
+		SHA = 33-D5-30-63-4C-FA-9C-A6-0F-27-98-C1-4D-CC-F5-C7-A8-E0-40-C8-8E-8E-C5-08-BC-3D-58-B6-21-EC-E2-1D
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-ScrewDrive.cfg
+		SHA = 7C-0B-FC-19-54-74-0B-20-98-21-0C-4C-39-9A-79-EE-C8-E8-4C-A1-CF-6F-15-5A-03-A6-37-39-C3-AF-FA-F6
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-Skid.cfg
+		SHA = 96-C3-27-D7-A2-72-34-24-9E-09-04-17-91-16-BA-EF-7A-C4-59-D4-D4-0F-4C-92-CE-15-D4-02-4F-D1-EC-03
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackInverting.cfg
+		SHA = 66-5B-98-BD-20-E1-8D-EF-57-59-D0-C6-0E-88-18-8A-9C-6F-85-13-A3-05-5C-19-4F-9F-FC-8D-E3-4A-D4-B4
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackLong.cfg
+		SHA = 97-3A-2B-AB-E8-76-0A-BE-F9-77-35-FC-10-F3-7E-A0-A3-A8-D0-57-5E-79-2B-D2-C9-05-E6-04-C1-DF-1C-7A
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackMedium.cfg
+		SHA = 22-C4-C0-9F-59-A2-CA-D9-AA-4C-16-DF-14-78-6A-4A-90-3F-FB-29-2A-8B-E9-3E-C4-3A-9F-DF-EF-36-2A-56
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackMole.cfg
+		SHA = 73-5E-02-4B-33-96-D4-C0-FB-25-25-B9-2C-86-61-23-2A-36-99-2D-D1-03-E9-D1-60-72-C1-20-30-26-AA-DB
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackSimple.cfg
+		SHA = 53-29-A9-40-91-CF-3B-12-D5-56-42-A7-48-C2-CB-B3-20-9C-6E-EE-05-17-38-FA-BC-EA-F4-EC-71-AD-31-BC
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackSmall.cfg
+		SHA = 5D-3D-65-24-AA-7A-8C-08-15-FF-3B-C2-0D-10-09-92-AD-35-D7-63-00-49-F1-58-4C-3F-1A-DE-37-C5-30-69
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackSurface.cfg
+		SHA = 84-63-11-19-26-CC-6A-B3-F6-FF-F7-E0-12-AD-A8-C8-E4-C7-BE-24-BF-D3-7F-41-61-D8-78-93-9A-54-E9-4F
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-TrackTiny.cfg
+		SHA = 0C-A8-00-DE-7B-8C-EA-13-BB-FA-56-AF-AF-4C-3C-A6-09-F6-E5-9A-A2-73-CE-F3-C2-45-91-9D-95-63-4A-88
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-WheelLarge.cfg
+		SHA = E6-2C-D0-7A-16-E5-C5-8D-B5-0F-F4-9F-69-FA-08-0A-A7-B3-2C-DE-9E-70-2D-78-DD-86-4D-FB-50-34-87-98
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-WheelMedium.cfg
+		SHA = F5-55-62-E0-BA-15-EA-E2-30-03-D1-24-A0-1A-D4-7A-42-41-4A-D9-8B-E3-D7-BF-94-07-A2-2E-4F-45-1B-1E
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-WheelSmall.cfg
+		SHA = F0-EB-11-0E-8F-38-4A-97-FD-2C-4E-25-14-4A-B6-20-73-9D-A6-88-F6-60-9A-93-E5-93-1B-40-50-EB-0E-17
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-WheelTiny.cfg
+		SHA = 5A-B1-E5-00-A8-C7-6C-FF-22-49-2C-51-5D-ED-B5-A7-D1-8F-19-A1-0D-63-92-39-C9-DD-3C-55-5E-50-48-C9
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-WheelTruck-Dual.cfg
+		SHA = D0-85-6A-B6-3B-0C-DA-76-98-73-2B-C6-DB-01-D6-E7-1A-2D-14-5E-A8-A5-DA-1E-49-46-E0-4F-FF-4B-11-D3
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Parts/KF-WheelTruck-Single.cfg
+		SHA = 9F-C3-5D-75-6E-46-25-8A-83-0F-DC-3C-A2-68-8F-53-55-F3-07-AB-FC-B7-84-37-E6-C0-CA-57-60-B9-48-13
+	}
+	FILE
+	{
+		filename = KerbalFoundries/Patches/KFCommunityTechTree.cfg
+		SHA = 5D-7F-54-79-D4-5C-6A-94-85-11-D6-C6-88-40-C1-A5-9C-41-ED-8C-AC-FC-04-D1-FD-47-62-07-A4-C5-C3-08
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-APU.cfg
+		SHA = 8E-CD-7B-BB-02-42-F3-A8-97-13-6F-3E-38-F8-3B-84-F5-F2-01-B5-3C-85-1C-73-11-C6-83-14-98-23-D2-82
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-GearLarge.cfg
+		SHA = 1F-FB-E2-1A-D4-61-BD-AD-37-C1-A1-B0-44-6C-9A-C7-24-22-5F-4B-34-21-CF-ED-51-D7-F2-70-A9-98-6D-C2
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-GearMedium.cfg
+		SHA = 4C-BC-2D-74-E7-DA-A4-E4-AA-61-98-D8-32-6A-A7-8A-1D-9D-18-48-A7-30-3B-55-E1-00-1D-A8-F6-21-34-75
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-LegAero.cfg
+		SHA = 12-2A-AA-C1-26-37-63-9E-1F-20-67-02-69-6D-0B-A3-84-73-42-E1-D8-63-5E-A8-F6-1B-0E-41-C9-49-12-6B
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-LegExtending.cfg
+		SHA = 86-6D-8B-F8-9D-76-B7-AB-ED-54-EA-28-C4-7B-C8-73-70-CD-57-2D-88-DD-6C-B2-51-04-52-59-09-E3-60-C5
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-LegFolding.cfg
+		SHA = F0-40-A0-A3-02-17-8D-4B-74-EE-B7-1B-C5-43-2C-D0-A9-1A-32-31-9B-22-05-8B-FA-D7-A4-D9-70-DD-2B-0E
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-RepulsorStandard.cfg
+		SHA = 96-78-EA-9A-E7-33-FF-5B-B9-23-89-F3-BC-38-C0-79-35-1C-46-DE-10-15-FE-DD-CB-1F-09-48-B5-7F-FC-9D
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-ScrewDrive.cfg
+		SHA = 44-34-A2-42-88-07-87-DD-D3-73-33-D6-33-74-97-34-7C-6A-B8-D7-46-0D-E2-6B-17-01-BD-31-8B-AB-8F-5A
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-Skid.cfg
+		SHA = AA-2B-50-00-F1-FB-2A-53-93-CE-39-8C-33-4D-00-58-CB-CE-F9-03-3B-17-F3-E0-04-D1-3D-C7-93-87-AE-2A
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackInverting.cfg
+		SHA = 27-BD-8F-65-A2-69-AA-32-48-B2-E2-05-31-E4-DE-F4-15-9C-3E-8E-3A-E9-A4-ED-E8-81-27-6C-D1-B3-C4-E1
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackLong.cfg
+		SHA = B3-C4-9E-61-C3-6E-10-14-3C-B3-DA-E7-01-62-46-D0-98-7F-AB-51-87-DE-B4-6F-EB-52-2F-5B-80-9C-23-77
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackMedium.cfg
+		SHA = 8D-BD-E1-BF-B9-05-D4-48-23-8E-95-DE-D0-40-C6-EE-0B-2A-76-C9-85-28-35-AE-96-F6-2D-4B-A8-55-23-50
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackMole.cfg
+		SHA = 8D-E7-08-9B-FD-C3-1E-AA-43-EA-4A-D5-8B-88-39-52-2E-09-2C-60-E2-35-3C-09-F9-11-5F-26-4A-D5-40-EE
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackSimple.cfg
+		SHA = 5E-70-F3-61-C0-3F-BB-31-8F-91-0E-9A-5C-82-0C-DB-DB-7D-90-43-7C-E7-6B-7C-0A-BB-25-CF-CE-6F-B4-B0
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackSmall.cfg
+		SHA = D2-3B-C3-8A-04-D4-97-98-64-1F-C6-57-99-3F-52-15-E5-52-FD-71-7E-BA-2C-C0-0C-D5-35-3C-A9-29-6E-78
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackSurface.cfg
+		SHA = 96-93-56-31-D9-7E-A1-A7-84-53-D2-8E-C3-30-FD-A9-E8-1E-25-C7-1C-9D-15-73-8E-72-2D-F7-CF-FB-B2-50
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-TrackTiny.cfg
+		SHA = 58-CA-EB-31-13-4D-EF-AE-C0-52-38-31-24-02-9F-14-ED-C3-5C-7F-D0-80-9C-7A-09-FD-F3-70-BA-F3-5B-98
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-WheelLarge.cfg
+		SHA = 51-C2-DD-C4-ED-42-11-8E-C7-B1-F9-CF-1C-99-ED-61-46-08-BD-58-3C-92-85-6C-CE-BD-58-0E-4A-EC-8F-CA
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-WheelMedium.cfg
+		SHA = 26-ED-91-90-3D-40-3C-9A-FC-66-49-B8-04-CD-D0-42-4C-7F-0E-06-6E-C2-5C-67-D3-FE-B8-9A-81-6B-20-AF
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-WheelSmall.cfg
+		SHA = 18-ED-33-9C-F8-FA-BE-8F-07-6E-E1-FF-87-6B-B1-9B-1E-92-99-DC-5E-AB-F2-89-37-71-D3-73-41-1B-20-A6
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/PBR-WheelTiny.cfg
+		SHA = 8F-ED-D2-EF-4C-6C-62-60-38-CA-10-42-E6-26-41-49-17-5A-E5-82-EE-09-D6-EC-B1-D6-66-AD-5D-8E-55-99
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/Tracks.cfg
+		SHA = 15-EA-35-8C-2F-F2-35-C8-7F-B5-8E-B8-5D-51-09-A5-90-87-5A-D5-2A-62-D9-8C-F0-39-2B-BA-BA-7D-25-4B
+	}
+	FILE
+	{
+		filename = KerbalFoundries/PBR/Wheels.cfg
+		SHA = F2-E0-7C-28-A1-25-45-61-B7-35-85-04-3A-73-E1-E1-62-87-B3-68-E7-1B-75-7E-BE-29-A8-B5-08-A6-31-6D
+	}
+	FILE
+	{
 		filename = KFC/parts/CVAccessories/ArrestWire.cfg
 		SHA = C3-AC-9D-B7-FA-27-F0-F5-9A-F3-0A-03-7E-38-51-53-20-63-26-36-46-03-EB-EB-76-B4-94-66-AD-32-95-6F
 	}
@@ -1257,6 +2422,11 @@ FilesSHA
 	{
 		filename = KFC/Resource/ResourcesGeneric.cfg
 		SHA = 96-75-CF-9D-64-14-17-23-F7-0F-FA-F8-30-5E-10-94-D4-87-3C-D8-F7-9A-1C-3A-23-72-87-5C-69-C2-EE-53
+	}
+	FILE
+	{
+		filename = KSPWheel/KSPWheelConfig.cfg
+		SHA = 79-0B-64-52-2A-DC-6D-9E-FA-14-2A-4C-B6-33-DD-B2-4D-E7-2E-B7-0B-91-99-79-EF-82-CA-C7-26-8A-6F-7E
 	}
 	FILE
 	{
