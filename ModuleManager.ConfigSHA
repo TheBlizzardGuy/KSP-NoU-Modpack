@@ -1,4 +1,4 @@
-SHA = D7-ED-49-BD-B8-E4-49-A9-F6-E9-20-9D-7E-16-D7-55-06-D6-B3-07-19-3D-47-00-DB-5B-86-82-F4-2D-F8-4D
+SHA = D6-B1-53-C5-04-31-F3-94-5E-98-7F-2A-78-B2-B6-8A-4D-36-BF-09-B5-C5-02-B2-2B-DD-66-AE-39-90-C7-E9
 version = 4.1.3.0
 KSPVersion = 1.8.1.2694
 FilesSHA
@@ -840,6 +840,11 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = AviationCockpits/Command/Fw_190.cfg
+		SHA = 63-DA-DA-F1-76-93-17-C6-94-1D-C6-38-3C-B2-D9-DC-AB-65-58-9F-D0-9C-05-2F-E0-3F-B0-08-1F-36-BD-2A
+	}
+	FILE
+	{
 		filename = AviationCockpits/Command/Interceptor.cfg
 		SHA = 48-43-F8-EE-74-37-55-1B-F7-5E-67-80-CD-D3-BC-B2-4B-12-67-3F-E5-BD-33-EB-CA-A6-3F-9A-CE-F6-AA-9F
 	}
@@ -1022,6 +1027,241 @@ FilesSHA
 	{
 		filename = AviationCockpits/Spaces/Typhoon_internal.cfg
 		SHA = 9D-15-2E-76-FC-68-4C-3F-AF-12-24-24-2C-E6-FE-13-7A-C3-01-E7-10-37-90-6A-33-FF-4F-F1-70-7C-9C-D0
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Agencies/Agents.cfg
+		SHA = 5E-1C-DB-E0-EA-7F-E8-F8-86-B5-31-14-04-0C-C8-0A-23-4A-8C-D1-20-6C-5A-E0-88-2C-E7-5E-D9-5F-D3-F8
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/12.7mm Ammo Box/50calBox.cfg
+		SHA = E2-63-88-E4-CB-34-AD-7B-53-08-EF-C6-E5-E2-CD-EF-CE-75-24-0A-91-92-88-E0-B8-AD-0D-26-59-09-76-5B
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/13mm Ammo Box/13mmBox.cfg
+		SHA = FE-28-A5-35-79-A7-07-18-96-CC-E7-D6-50-DC-84-CE-7C-B4-7D-F4-89-9B-58-F5-D0-A9-49-3E-8F-B2-18-D2
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/20mm Ammo Box/20mmBox.cfg
+		SHA = DA-2D-40-14-5C-E4-83-59-1E-FE-BF-47-17-29-8E-21-CD-3F-E9-B0-04-8A-36-13-53-2F-2D-82-9F-29-7D-CF
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/23mm Ammo Box/23mmBox.cfg
+		SHA = 84-F7-42-D4-B3-0A-9E-97-8A-7F-5E-15-0D-6E-A3-89-4E-AA-28-96-1C-4E-0E-CF-03-47-10-62-1E-8C-85-AD
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/30mm Ammo Box/30mmBox.cfg
+		SHA = 5D-6D-66-D5-99-8E-F2-8F-CE-68-FC-D0-20-A9-71-F5-DF-ED-62-3C-3A-D1-59-50-1F-78-58-5A-1F-45-EA-08
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/40mm Ammo Box/40mmBox.cfg
+		SHA = E0-E1-54-65-BB-26-7E-8E-3A-ED-77-44-7C-E1-F0-88-86-78-95-F6-19-FC-31-15-37-68-A4-4C-1A-9D-2D-5B
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/75mm Ammo Box/75mmBox.cfg
+		SHA = A3-AC-ED-88-2E-D3-67-A5-52-D2-2D-E8-4C-C6-B6-42-6C-DA-6F-6B-D4-D3-20-B8-B9-70-71-FA-67-9D-43-60
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Ammo Boxes/7mm Ammo Box/7mmBox.cfg
+		SHA = FE-44-3E-06-3F-86-93-0E-EA-34-C1-40-23-00-43-95-86-03-96-60-16-48-BA-E0-1B-EF-A4-A5-8E-54-80-95
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Antennas/AI Antenna/AIAntenna.cfg
+		SHA = DE-4A-11-B4-2E-54-59-72-00-5A-8E-E1-D7-1E-96-1B-26-87-14-5B-4F-23-10-09-B4-1E-9B-F1-04-9E-C4-96
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Antennas/Ball Antenna/ballAntenna.cfg
+		SHA = 87-DB-25-BD-9F-8B-A8-21-20-06-A4-EA-EB-4B-D6-1E-9E-CF-8B-82-77-AE-BD-34-23-5A-8E-0A-4E-DD-FD-31
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Antennas/Ring Antenna/ringAntenna.cfg
+		SHA = 60-63-54-C3-23-DB-8E-66-D4-65-A7-3A-D0-18-2A-D5-17-9C-E1-7B-01-80-22-57-90-DC-D0-0F-A9-CA-7D-2F
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Bombs/AN-M30 100lb Bomb/100lb.cfg
+		SHA = 93-98-B4-7E-F5-7B-E9-E7-62-FD-8B-8B-6F-0E-6A-63-C2-11-6B-65-1F-1A-A1-00-B7-5D-25-FE-FC-A8-C9-79
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Bombs/AN-M57 250lb Bomb/250lb.cfg
+		SHA = 3E-F4-FE-D8-9E-70-C6-6F-89-AB-5A-C4-3C-D9-53-62-09-05-20-14-F1-2D-AB-0A-BD-48-89-89-99-8D-C6-A3
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Bombs/AN-M64 500lb Bomb/500lb.cfg
+		SHA = 25-1E-85-42-41-E3-E4-71-48-2E-EB-AA-49-6F-DB-BB-AC-83-35-63-9B-B9-CF-FA-78-C3-EA-86-97-0E-FF-0F
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Bombs/AN-M65 1000lb Bomb/1000lb.cfg
+		SHA = 25-D2-6C-07-03-BC-2F-A6-6B-65-8A-C7-43-EF-D3-3C-BA-0F-5D-21-D8-86-35-E3-42-B3-83-CC-15-B0-5C-91
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/Hispano mk2 Enclosed Barrel/hispanoMK2enclosed.cfg
+		SHA = 17-BF-5F-61-AB-18-F6-63-BC-FD-E6-DA-05-8F-F0-2A-6D-44-B0-4B-4C-21-20-82-0A-9F-A0-C9-DB-37-16-A8
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/Hispano mk2 Exposed Barrel/hispanoMK2exposed.cfg
+		SHA = 15-BF-51-80-88-33-A7-3C-F1-A4-22-35-B2-F6-06-1D-2B-64-6F-A1-D6-3C-10-6D-B5-AD-5F-5D-DD-A1-CD-C1
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/MG 151 Long Barrel/mg151long.cfg
+		SHA = 74-A9-D8-6F-8B-FA-7E-3E-83-70-84-69-C7-82-C6-54-CC-0F-D5-E3-8E-5F-A6-15-7C-89-B0-35-16-C2-6B-7B
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/MG 151 Short Barrel/mg151short.cfg
+		SHA = 40-E6-F5-BD-5A-80-70-A9-08-3E-E9-F2-55-49-63-D3-15-38-F9-66-49-0F-4A-52-6B-C2-9A-D4-0E-6C-D4-41
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/MG 151 Surface Mounted/mg151pod.cfg
+		SHA = 50-92-21-20-FD-87-20-93-9B-C1-E5-A0-63-BC-9B-38-09-28-55-E9-13-60-44-EC-84-B1-EA-63-B0-BB-08-4F
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/shVAK 20mm Long Barrel/shVAKwingmount.cfg
+		SHA = EE-82-47-68-40-20-77-81-19-48-56-8F-BF-29-80-39-4F-24-2D-92-D5-A1-97-2C-46-6F-DE-6D-C2-5C-67-81
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Cannons/shVAK 20mm Surface Mounted/shVAKport.cfg
+		SHA = D5-D8-F9-69-77-63-27-B8-A1-BC-EE-0E-E1-97-F2-21-30-50-A5-96-97-DC-9E-92-CF-0B-A3-82-55-B0-53-DB
+	}
+	FILE
+	{
+		filename = AviatorArsenal/HE Cannons/BK 7.5 Cannon/BK7.5.cfg
+		SHA = A8-F6-38-38-8E-01-E2-7C-51-F1-F7-94-60-8E-5E-59-65-E0-1E-DB-AE-E9-24-7F-F9-DE-A4-F3-EA-5D-1D-D2
+	}
+	FILE
+	{
+		filename = AviatorArsenal/HE Cannons/MK 108 30mm Cannon/MK108.cfg
+		SHA = 27-CD-30-98-E6-75-DB-67-99-CA-C1-37-DA-F7-6F-56-ED-AD-DF-D0-11-EB-67-AB-B3-CD-0A-90-C4-8D-DD-74
+	}
+	FILE
+	{
+		filename = AviatorArsenal/HE Cannons/Vickers S 40mm Pod/vickerspod.cfg
+		SHA = C0-A9-17-1B-C7-7F-07-C9-C1-23-1C-DE-A2-3D-F9-62-89-3B-59-ED-10-2D-06-56-80-CD-39-15-79-F4-8C-29
+	}
+	FILE
+	{
+		filename = AviatorArsenal/HE Cannons/VYa-23 Long Barrel/VYa23.cfg
+		SHA = C4-91-97-03-4E-75-73-9E-63-69-53-78-88-B3-BE-D9-12-B1-16-FD-2E-D9-69-C9-22-4B-BC-3D-2D-EE-9A-45
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/Berezin UBZ Long Barrel/berezin.cfg
+		SHA = 36-65-B4-5F-86-FA-F1-FA-12-0B-C2-89-1C-1A-DB-BB-F3-73-9D-1E-94-D9-CD-D6-30-DE-D7-EB-06-DB-22-0C
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/Breda-SAFAT 7.7mm Long Barrel/bredaSAFATlong.cfg
+		SHA = 44-64-D7-43-E1-53-F4-53-09-62-32-A0-9F-2F-DC-3E-74-03-F6-82-45-3A-5C-54-16-87-F7-B9-FA-25-52-5C
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/Breda-SAFAT 7.7mm Port/bredaSAFATport.cfg
+		SHA = 84-5E-BC-4B-F9-C8-2E-19-EA-E7-E6-76-CD-B5-F7-D5-7D-6B-13-68-DD-B9-CC-26-43-38-FF-92-2D-F8-41-2F
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/M2 .50 Blister Pod/m2blisterpod.cfg
+		SHA = BD-AB-AC-02-58-5D-E5-8D-CB-82-E8-BE-2F-62-71-1B-99-CC-AB-5A-DF-5C-9F-2E-87-B7-CB-2A-9F-76-3D-8A
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/M2 .50 Long Barrel/m2long.cfg
+		SHA = 73-83-BE-53-98-09-4C-32-28-BA-46-28-D9-CA-A1-6C-EC-1D-28-29-8F-B8-19-48-CE-8F-1E-A3-63-77-AA-E1
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/M2 .50 Port/m2port.cfg
+		SHA = AA-3F-5F-60-48-E5-CC-8E-F7-4F-C8-B8-B3-B0-EC-71-58-C5-74-8B-5D-5E-8F-5F-EB-57-6C-21-45-55-43-7A
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/M2 .50 Surface Mounted/m2surface.cfg
+		SHA = 84-9B-CB-F0-D4-CA-16-00-FC-66-9B-CA-D3-67-8B-E7-46-B4-24-ED-D5-6C-81-B8-BD-8E-30-BF-A0-6B-B7-4F
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/MG 131 13mm Surface Mounted/mg131.cfg
+		SHA = E1-10-A1-D5-8C-98-DC-0E-96-5F-5A-02-86-C2-CD-19-28-5B-69-42-31-F3-CA-AF-75-F9-E4-36-80-D4-23-76
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Machine Guns/shKAS 7.62mm Surface Mounted/shKAS.cfg
+		SHA = 3D-C4-C9-91-FA-33-E1-23-CC-F6-03-9E-EB-81-F5-5C-41-7E-E0-63-BD-4F-52-4F-8E-8E-A5-EA-3D-C4-DB-D5
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Plugins/AABulletDefs.cfg
+		SHA = 7A-AE-C0-93-62-0E-0F-F2-D4-91-A1-F4-81-F7-AC-16-EE-59-0B-27-B0-A8-D3-F2-55-F5-F3-0F-1D-26-2A-F8
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Resources/Ammo.cfg
+		SHA = 03-66-1E-B8-43-0C-ED-BA-0A-74-97-CE-07-79-43-F8-3B-4B-2E-A8-97-04-82-1D-6A-BB-0E-62-EB-58-C9-CC
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Rockets/HVAR Rocket/HVAR.cfg
+		SHA = 96-F5-D9-F8-B8-8F-77-C3-71-4F-11-BC-EA-00-BD-D6-96-E1-E5-83-72-E3-53-AE-3B-75-0F-3C-75-D3-1C-D2
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Rockets/Rocket Pod/rocketPod.cfg
+		SHA = FF-F7-F0-52-B6-B8-80-00-8F-5A-33-0C-18-0E-31-6E-44-1A-69-D1-AD-ED-65-14-C0-E2-45-DE-7C-7F-F1-C4
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Rockets/RP-3 Rocket/RP3.cfg
+		SHA = B7-E8-46-6F-99-46-8B-61-4C-D6-72-0C-0B-53-6A-82-F7-42-DD-30-5A-B4-6D-5A-E6-E0-F7-C8-53-12-4D-C2
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Turrets/Ball Turret/ballturret.cfg
+		SHA = 94-4C-AB-A1-89-89-99-C0-1E-AC-85-0E-5A-A1-8A-67-0C-16-AA-D3-32-31-2B-EA-A8-D8-AA-46-F7-A8-A4-0A
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Utilities/Drop Tank/smalldroptank.cfg
+		SHA = A6-2F-A6-82-5A-50-D0-31-68-FF-DF-38-70-8A-2A-B2-EA-A7-84-87-3A-83-9B-1F-C3-71-49-36-42-CE-39-BF
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Utilities/Heavy Ordnance Mount/heavyMount.cfg
+		SHA = 9B-E4-6E-ED-E0-7A-8F-64-CE-86-E6-2F-54-02-6D-0C-69-3D-6F-0A-29-FC-29-92-4E-59-3E-6C-48-5D-17-08
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Utilities/JerryTrumpet/Jerry.cfg
+		SHA = 09-DD-A5-A7-19-56-EE-B7-41-42-F2-2C-A5-F3-49-C4-18-41-C8-BF-9D-99-0D-54-68-9F-29-06-C1-26-B7-F7
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Utilities/Rocket Rail/Rail.cfg
+		SHA = 1D-7D-0B-A3-EA-C4-E0-38-BE-6D-85-66-8A-66-2A-01-BF-2E-54-E8-51-6F-73-35-27-96-D3-1F-CA-A4-D0-BE
+	}
+	FILE
+	{
+		filename = AviatorArsenal/Utilities/Structural Bomb Mount/bombmount.cfg
+		SHA = 86-75-92-BB-8B-E4-B8-D9-E7-B0-84-7E-DB-7D-B3-EC-9F-63-72-A1-35-81-91-27-53-FD-FA-CE-86-02-15-66
 	}
 	FILE
 	{
@@ -3601,7 +3841,7 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/EW/Engines.cfg
-		SHA = 8B-0F-F1-B4-64-67-F6-69-E0-3A-7E-A0-41-44-F5-74-FA-7E-3A-ED-83-93-D1-B8-08-D2-8C-C3-24-06-3C-ED
+		SHA = 6C-C1-B0-60-E6-C4-D9-D2-8D-26-2F-07-5F-F9-08-A9-A8-E5-60-8D-C5-39-AB-C1-59-21-1A-F9-20-7C-28-1A
 	}
 	FILE
 	{
