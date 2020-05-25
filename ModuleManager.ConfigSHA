@@ -1,4 +1,4 @@
-SHA = 94-59-83-95-B9-AE-12-BD-C0-0D-00-CF-40-D4-D3-F3-55-A5-0A-BE-12-00-78-F0-0A-83-70-F7-EA-89-55-EC
+SHA = 3D-ED-AC-67-1D-6F-DC-AD-89-E5-59-D8-C5-44-9B-BD-F0-76-CF-96-22-AC-E2-B5-33-29-3A-A6-4A-A3-3F-CE
 version = 4.1.3.0
 KSPVersion = 1.8.1.2694
 FilesSHA
@@ -3970,13 +3970,313 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = NoU/Categories.cfg
-		SHA = 14-47-A2-3A-B4-04-F1-33-B5-A5-70-80-DE-04-AD-12-4E-CB-4E-2A-29-ED-20-FA-18-16-34-1D-FF-73-4E-5A
+		filename = NoU/AGM/AGM-12C.cfg
+		SHA = 2E-38-5D-50-73-92-94-46-FC-07-3F-03-C4-00-E3-A6-5D-C4-A2-94-3A-E4-4C-58-28-D0-59-F4-A6-86-2C-31
+	}
+	FILE
+	{
+		filename = NoU/AGM/AGM-28.cfg
+		SHA = B8-AB-1C-CA-A7-04-EF-5C-6E-88-67-AE-7A-BF-59-B6-8E-6D-52-51-D5-1E-E6-12-A7-A3-9A-A0-62-A9-4A-4B
+	}
+	FILE
+	{
+		filename = NoU/AGM/AGM-45.cfg
+		SHA = 17-B2-0C-04-3A-E6-AB-1F-71-08-D6-27-8F-11-A2-40-95-9D-4A-D5-43-3A-64-E1-9B-3E-17-CD-31-C2-68-16
+	}
+	FILE
+	{
+		filename = NoU/AIM/AIM-4A.cfg
+		SHA = 28-1F-9F-C1-CF-31-04-C8-D3-F6-0B-AC-C7-9A-15-CE-66-27-68-8E-E9-88-5F-27-71-D2-5E-BD-F2-94-95-A6
+	}
+	FILE
+	{
+		filename = NoU/AIM/AIM-7E.cfg
+		SHA = 49-1E-00-89-3C-0F-0D-61-D2-91-97-FB-DC-AD-C0-CA-70-DB-00-43-2A-05-AF-6E-55-0E-79-F8-55-0E-19-54
 	}
 	FILE
 	{
 		filename = NoU/AIM/AIM-9B.cfg
-		SHA = 13-F0-65-27-53-D5-1E-E1-FA-F9-1E-15-1B-09-C7-9F-0D-6E-6B-F5-5A-08-E1-CB-C7-E2-83-3C-14-C2-D6-83
+		SHA = DD-2E-FE-21-5A-9A-76-91-89-DB-61-E5-17-9F-C2-4B-34-E6-2B-C6-A4-F0-74-7B-0A-9D-0A-F5-5E-77-9F-F1
+	}
+	FILE
+	{
+		filename = NoU/AIM/AIM-9D.cfg
+		SHA = FE-89-A0-E6-98-5E-A0-84-97-FD-2C-8D-0B-07-63-3B-20-BE-21-E2-49-1F-A1-F3-F4-6E-B6-09-B2-F8-C1-04
+	}
+	FILE
+	{
+		filename = NoU/AIM/AIM-9L.cfg
+		SHA = CE-86-5C-51-59-AB-04-1D-2A-BE-9E-2E-82-C9-AD-BD-7E-40-8F-AE-EE-F8-46-FC-B9-3B-6C-E1-A6-D6-68-F9
+	}
+	FILE
+	{
+		filename = NoU/AIM/AIM-9M.cfg
+		SHA = 91-DE-BE-89-96-BB-2B-44-EE-CE-AC-9F-3E-D1-43-C1-CC-70-79-A7-4E-BB-9B-4D-62-BB-89-CC-AB-61-28-2D
+	}
+	FILE
+	{
+		filename = NoU/AIM/AIM-9P.cfg
+		SHA = 1E-18-9C-88-BA-75-AC-30-84-B7-2E-F6-40-9F-1F-74-71-3E-16-A2-5C-D1-B1-C8-AD-41-99-BF-08-E5-AC-89
+	}
+	FILE
+	{
+		filename = NoU/EU/FIM-43.cfg
+		SHA = BA-BB-11-F4-E1-FD-A6-6A-0B-95-31-EB-FE-D2-54-18-00-95-A2-39-4A-D8-5A-16-97-E4-E5-4D-11-47-2A-63
+	}
+	FILE
+	{
+		filename = NoU/EU/Firestreak.cfg
+		SHA = 5F-C2-72-CA-F0-19-87-F7-6B-91-AF-4F-CB-E9-EA-07-CD-3F-E4-37-3C-B9-EA-10-F1-47-22-4D-5B-10-37-3A
+	}
+	FILE
+	{
+		filename = NoU/EU/GWS20.cfg
+		SHA = 33-03-B5-3C-EA-93-DD-C4-29-5B-0C-C6-78-86-0B-49-8F-A5-74-6A-DB-0D-E4-BA-57-1B-5B-5B-00-17-81-88
+	}
+	FILE
+	{
+		filename = NoU/EU/Magic1.cfg
+		SHA = 39-75-50-15-D6-0D-84-CC-5C-E8-88-45-BD-13-52-C8-C3-C8-5E-70-44-96-C9-A7-E3-33-40-FE-BA-0B-0A-96
+	}
+	FILE
+	{
+		filename = NoU/EU/Masurca.cfg
+		SHA = 24-99-6F-4C-E5-AB-3A-5F-16-15-EB-54-EC-CD-DE-19-42-AC-59-E5-F9-96-6F-72-97-EE-84-A9-49-E7-B4-8E
+	}
+	FILE
+	{
+		filename = NoU/EU/R511.cfg
+		SHA = 1D-20-2D-29-E9-4F-43-3D-C1-FA-DE-8A-94-94-15-E3-D4-12-C9-E3-56-BF-1E-25-D0-2F-41-F8-93-79-13-B9
+	}
+	FILE
+	{
+		filename = NoU/EU/R530.cfg
+		SHA = 2D-FD-10-2D-59-FB-A4-62-7E-78-35-1E-4F-5E-9C-88-4A-1D-1D-19-01-5B-47-88-1F-CE-3F-95-6B-40-22-AD
+	}
+	FILE
+	{
+		filename = NoU/EU/RB04C.cfg
+		SHA = 5B-22-0F-C7-CE-A5-7C-E5-4D-58-3D-F2-2C-DF-BC-7B-AC-04-4F-A2-1A-15-C9-32-35-F0-02-40-59-28-59-D7
+	}
+	FILE
+	{
+		filename = NoU/EU/RedTop.cfg
+		SHA = 6C-D6-DD-21-0D-92-9E-E8-C4-13-CF-AD-35-19-6A-3C-7A-D5-7A-5A-8D-07-00-56-C1-A3-F4-96-7E-6C-48-59
+	}
+	FILE
+	{
+		filename = NoU/EU/Swingfire.cfg
+		SHA = 9C-0E-0F-47-4E-E2-C0-E8-B7-DB-ED-E8-86-D6-E0-D3-81-8F-A2-34-D0-E1-11-70-9C-26-61-EC-33-36-C7-03
+	}
+	FILE
+	{
+		filename = NoU/EU/VelvetGlove.cfg
+		SHA = D3-D7-1C-73-D2-FE-55-E5-E4-EA-B8-61-69-A4-A2-1E-11-7E-A4-81-40-88-F4-6E-CC-64-1B-EE-0A-DE-60-96
+	}
+	FILE
+	{
+		filename = NoU/EW/AircraftGuns.cfg
+		SHA = CD-F9-9F-61-34-CF-43-D2-C4-14-A8-63-DD-62-49-DF-A8-CD-F6-16-D6-A1-1E-9A-FB-6C-32-F3-50-91-6F-A2
+	}
+	FILE
+	{
+		filename = NoU/EW/Ammo.cfg
+		SHA = 45-FD-FD-E2-97-BB-7C-85-39-BB-64-39-82-8A-F1-F0-3D-F8-1A-BC-A3-76-C6-9B-4F-04-4A-5A-76-9E-11-7E
+	}
+	FILE
+	{
+		filename = NoU/EW/Categories.cfg
+		SHA = 16-5B-35-84-95-CB-D6-4A-52-C6-41-A3-11-D3-E1-14-32-8F-C5-0D-55-7E-82-E7-6F-C6-9B-2B-7A-12-83-14
+	}
+	FILE
+	{
+		filename = NoU/EW/Edits.cfg
+		SHA = B3-E7-66-B5-C2-E1-2B-CB-6C-B3-B6-C2-8F-43-5C-28-06-24-43-7D-66-42-0C-2D-D6-05-68-46-15-31-BE-30
+	}
+	FILE
+	{
+		filename = NoU/EW/Electronic Systems.cfg
+		SHA = 02-FD-45-4F-D1-E0-59-E0-C9-C5-BE-5B-D1-BC-22-AF-A6-71-A2-9A-F3-F3-36-4B-A6-FE-65-C1-33-F3-AB-EF
+	}
+	FILE
+	{
+		filename = NoU/EW/Engines.cfg
+		SHA = 5E-3A-5D-F2-D5-00-0F-38-87-66-52-F0-35-86-61-8F-8F-20-14-35-A7-3B-D5-F8-5F-6D-FA-DB-29-58-17-28
+	}
+	FILE
+	{
+		filename = NoU/RF/9M14Malyutka.cfg
+		SHA = 14-30-D2-F6-30-E2-87-44-20-75-9B-C8-1C-4E-8D-F3-DC-C1-48-D5-64-3B-6D-A1-BF-F8-9E-D2-D6-B6-C2-6D
+	}
+	FILE
+	{
+		filename = NoU/RF/Buk.cfg
+		SHA = 33-BF-60-6F-EA-4F-C5-6B-01-86-66-0F-70-DB-B7-67-CD-6D-21-82-A0-7A-A5-EE-65-04-92-DA-28-8B-0F-1A
+	}
+	FILE
+	{
+		filename = NoU/RF/K-5.cfg
+		SHA = 73-F8-B1-97-83-A1-B6-DD-A3-55-4F-8C-02-55-51-AC-A8-DE-8A-80-C5-36-81-06-B4-A3-A4-AA-5E-25-79-EF
+	}
+	FILE
+	{
+		filename = NoU/RF/Kh-22.cfg
+		SHA = 9F-9A-70-02-76-3B-CA-C6-3E-7A-A1-90-F9-7B-3B-1E-DE-BA-3E-BB-78-8E-B8-FB-B6-CC-3D-6F-82-65-8B-67
+	}
+	FILE
+	{
+		filename = NoU/RF/Kh-66.cfg
+		SHA = 9E-2C-A7-4E-53-2B-99-10-86-81-20-80-FB-C7-4A-85-51-CB-36-81-E5-D6-BE-93-AE-50-6D-B6-9A-00-F9-F7
+	}
+	FILE
+	{
+		filename = NoU/RF/Krug.cfg
+		SHA = 74-0D-20-6E-98-43-D5-2E-65-F1-2A-C0-58-1C-FC-00-27-97-05-9B-74-AF-EA-54-95-91-F6-A0-71-A2-00-E4
+	}
+	FILE
+	{
+		filename = NoU/RF/KS1.cfg
+		SHA = 46-8C-05-0C-CC-FA-84-F9-80-84-B7-9C-6F-48-C1-69-45-E3-B8-59-14-F1-98-9C-C4-E4-DF-F9-3C-2A-14-C0
+	}
+	FILE
+	{
+		filename = NoU/RF/KSR2.cfg
+		SHA = CE-A4-D9-91-F3-02-B9-84-07-6A-CE-9E-F3-42-BB-47-20-BA-F3-1E-A0-39-CC-D4-F4-5C-A8-83-66-57-BD-30
+	}
+	FILE
+	{
+		filename = NoU/RF/Kub.cfg
+		SHA = E9-97-E1-2B-AB-89-C4-D8-5A-B3-08-2D-FE-72-ED-1E-FC-4A-BB-41-25-19-60-91-98-C7-61-A4-98-10-6B-B4
+	}
+	FILE
+	{
+		filename = NoU/RF/MIM-3.cfg
+		SHA = F8-FD-DA-89-F0-17-97-30-26-A2-1B-DC-B6-86-53-E6-DE-52-8C-EB-BD-3A-46-DD-CE-2B-6B-FB-E1-DC-67-AC
+	}
+	FILE
+	{
+		filename = NoU/RF/MIM-72.cfg
+		SHA = F2-59-26-74-09-46-6C-F3-CD-5B-AF-C8-BB-F9-71-92-61-A1-40-5A-DE-60-65-7C-8A-AC-35-FD-76-41-CB-1A
+	}
+	FILE
+	{
+		filename = NoU/RF/R-23.cfg
+		SHA = D6-07-BB-DD-77-9A-C4-2F-54-D3-80-A7-BF-8B-D8-B0-A5-D5-1F-59-84-8D-A0-74-57-CD-E7-E9-A2-2E-B4-52
+	}
+	FILE
+	{
+		filename = NoU/RF/R-3R.cfg
+		SHA = B5-29-B9-59-B6-BA-8F-E4-E5-5F-54-44-33-3A-A5-CD-24-71-AD-05-1B-21-11-A5-B8-4F-17-4F-20-CC-2C-EA
+	}
+	FILE
+	{
+		filename = NoU/RF/R-40R.cfg
+		SHA = EE-B4-8F-CE-70-F0-51-0F-17-33-00-91-2C-62-55-7D-00-2F-C5-20-AE-C8-3C-CD-5F-CD-EA-4A-D1-E4-24-33
+	}
+	FILE
+	{
+		filename = NoU/RF/R-40T.cfg
+		SHA = 1D-DB-69-7F-5A-23-6A-F8-67-CA-8B-85-64-F9-15-3E-86-B2-BA-71-19-01-10-26-78-E7-4A-36-A9-6F-AB-52
+	}
+	FILE
+	{
+		filename = NoU/RF/R-98MR.cfg
+		SHA = 47-16-79-DC-12-E3-08-25-AB-EB-A0-16-6F-26-1E-AC-5E-C7-51-4C-23-43-A5-75-2D-5C-DF-AE-8E-AE-26-F6
+	}
+	FILE
+	{
+		filename = NoU/RF/R-98MT.cfg
+		SHA = C5-22-F4-02-75-A8-05-9D-FB-CA-05-8C-CD-A0-BD-5F-9D-6F-54-E3-47-02-AB-C1-E6-E9-89-F9-81-73-59-91
+	}
+	FILE
+	{
+		filename = NoU/RF/R-98R.cfg
+		SHA = FA-A5-B8-01-2E-1B-5D-85-10-B0-04-6C-21-DF-AB-BE-5E-92-38-AB-6F-C7-B5-E9-56-FE-C7-2C-50-18-5A-C0
+	}
+	FILE
+	{
+		filename = NoU/RF/R-98T.cfg
+		SHA = DC-77-58-EE-C4-9D-A6-B7-51-14-B6-E6-91-7E-19-EE-2B-B4-11-5B-0E-09-CB-0F-48-E3-65-B3-CE-BB-EA-42
+	}
+	FILE
+	{
+		filename = NoU/RF/S-200.cfg
+		SHA = 0A-8D-6A-03-1A-DD-05-24-DF-3B-5A-22-9F-62-01-8B-7D-0F-27-3F-B9-44-EC-F5-BF-36-3F-BD-09-06-0E-03
+	}
+	FILE
+	{
+		filename = NoU/RF/S-25.cfg
+		SHA = F0-EB-B6-66-43-B5-B9-46-7D-4E-0D-B1-94-E6-BF-6B-91-C3-C0-04-1C-3A-5F-40-31-95-CA-6E-75-12-6B-62
+	}
+	FILE
+	{
+		filename = NoU/RF/SS.11.cfg
+		SHA = C6-DC-39-86-C5-82-58-99-BD-B9-63-39-E1-11-FE-CC-38-A3-74-DA-D5-A6-05-7A-BA-84-67-30-BD-34-6C-45
+	}
+	FILE
+	{
+		filename = NoU/RF/Strela-2.cfg
+		SHA = 8E-AC-F2-FB-CE-2A-11-30-1C-B6-FC-EE-9C-96-32-11-8F-81-80-FE-8A-91-C9-86-82-3B-27-E7-1C-86-65-A7
+	}
+	FILE
+	{
+		filename = NoU/Turrets/Centurion.cfg
+		SHA = D1-A8-E1-9D-E6-1B-3A-9F-B2-DE-2A-D2-4A-90-DF-59-6C-EA-73-F0-E2-C9-66-82-46-F7-C6-A7-A3-73-EC-C3
+	}
+	FILE
+	{
+		filename = NoU/Turrets/EBR90.cfg
+		SHA = E7-C6-6A-0B-83-35-00-4F-B7-94-1D-DD-A5-1F-63-D1-54-BC-42-C8-81-0B-E0-A1-84-9D-5B-45-60-E7-46-30
+	}
+	FILE
+	{
+		filename = NoU/Turrets/m41.cfg
+		SHA = 1D-C6-E0-81-39-93-77-AE-6B-B1-2E-0D-22-18-57-0D-82-59-F9-08-5A-4E-51-14-84-81-16-10-2F-14-B1-0E
+	}
+	FILE
+	{
+		filename = NoU/Turrets/m48.cfg
+		SHA = 52-BD-2D-43-DD-D3-9F-86-F9-08-D0-F4-2D-87-3E-F5-64-AE-BD-13-3E-CA-A9-59-6C-E8-00-50-85-2D-FE-A8
+	}
+	FILE
+	{
+		filename = NoU/Turrets/PT-76.cfg
+		SHA = E8-7E-BE-FC-85-37-C7-FE-BD-53-59-A2-5C-E0-CB-C3-F2-95-80-F5-F0-A3-B1-66-AF-3F-D9-F3-1A-7E-C1-90
+	}
+	FILE
+	{
+		filename = NoU/Turrets/T-54.cfg
+		SHA = 52-D0-34-F1-EC-02-C8-47-D7-0C-87-F9-3F-E8-CC-1C-A4-E6-96-F2-53-03-39-1C-5B-96-A8-07-55-70-4E-3A
+	}
+	FILE
+	{
+		filename = NoU/Turrets/T-62.cfg
+		SHA = EF-7C-A1-D5-B9-1F-79-00-58-16-4A-01-BE-42-99-B2-B9-29-27-0C-04-6C-9F-70-79-B9-6E-58-E7-61-0B-1D
+	}
+	FILE
+	{
+		filename = NoU/US/AUM-N-2.cfg
+		SHA = 47-10-43-48-5C-D4-84-6C-EC-38-9C-D6-A3-DB-B6-38-5C-8F-67-BC-2D-5D-FB-22-D3-4A-03-AA-28-79-EC-67
+	}
+	FILE
+	{
+		filename = NoU/US/CIM-10.cfg
+		SHA = 66-2F-74-A1-9C-EB-EE-DE-52-75-84-DF-FC-EB-C6-C9-BE-22-8C-BE-5B-4B-BB-C0-95-45-DB-2D-02-12-DA-A6
+	}
+	FILE
+	{
+		filename = NoU/US/MIM-23.cfg
+		SHA = 82-49-47-CB-00-F8-57-03-7D-EC-B5-44-AF-9F-CC-C5-C6-E3-30-45-FA-AF-4B-D8-F5-80-4D-D8-92-A7-D3-2F
+	}
+	FILE
+	{
+		filename = NoU/US/RIM-2.cfg
+		SHA = 67-1A-C7-0D-09-90-A7-28-59-A8-5F-D3-5E-77-EF-40-2D-16-A0-81-DA-FF-F0-94-09-FD-8F-A1-B5-CC-EA-DC
+	}
+	FILE
+	{
+		filename = NoU/US/RIM-8A.cfg
+		SHA = 7B-B7-4A-E0-00-71-05-B0-B6-B3-10-05-F7-44-67-E1-B3-C6-3F-CF-86-59-45-2E-7B-F3-26-A2-66-C3-F7-C4
 	}
 	FILE
 	{
@@ -4252,6 +4552,81 @@ FilesSHA
 	{
 		filename = SimpleFuelSwitch/patches/TACLS/HexCan_small.cfg
 		SHA = 8A-D8-6C-67-EA-4E-42-51-1E-56-B6-7C-AC-33-A5-40-E9-CE-D9-49-F9-55-B3-A4-E7-31-13-53-5B-28-14-D6
+	}
+	FILE
+	{
+		filename = SM_Armory/Agencies/Agents.cfg
+		SHA = 88-50-D6-C9-98-6F-BF-5C-B5-7D-3E-51-6B-86-37-04-30-AA-9F-5A-4C-89-DA-17-84-BA-3D-4C-02-7E-4D-03
+	}
+	FILE
+	{
+		filename = SM_Armory/BulletDefs/Resources.cfg
+		SHA = C4-1D-CC-B9-95-83-1F-14-1F-79-20-0C-DF-40-0A-C7-58-4D-B5-1D-99-F9-46-55-F2-9F-02-91-09-E1-4B-01
+	}
+	FILE
+	{
+		filename = SM_Armory/BulletDefs/SM_Bullets.cfg
+		SHA = 21-FB-AA-91-7D-2F-E1-8A-45-D7-58-8E-EC-47-90-B5-43-DE-75-51-C7-A9-5B-96-00-EF-8E-16-0D-B6-DD-7B
+	}
+	FILE
+	{
+		filename = SM_Armory/Extras/SeaMineV2B/SeaMineV2B.cfg
+		SHA = 2F-F8-6C-66-27-82-DD-D3-F3-C2-A0-84-17-EE-02-C8-B8-E8-A3-0D-7F-31-F4-1E-4B-CC-B9-CB-24-9F-A7-BA
+	}
+	FILE
+	{
+		filename = SM_Armory/Extras/SM_SecuBots/MiniBot16S/MiniBot16S.cfg
+		SHA = 32-37-2D-B9-FF-23-71-BB-48-99-6A-6A-42-9A-BE-14-0F-34-58-3E-C9-F0-9A-6E-33-86-A7-BA-68-F5-9A-E6
+	}
+	FILE
+	{
+		filename = SM_Armory/Extras/SM_SecuBots/SecuBot16/SecuBot16.cfg
+		SHA = 21-A4-7D-47-B2-69-A7-F8-1F-5A-B8-83-7A-1D-6E-E9-CF-95-4A-09-EA-D9-72-09-3E-4D-1D-86-62-97-E7-2C
+	}
+	FILE
+	{
+		filename = SM_Armory/Extras/SM_SecuBots/SecuBot16bad/SecuBot16bad.cfg
+		SHA = 34-8C-B3-0D-2A-17-8B-8D-9A-8F-9F-BC-C6-C8-50-CC-DB-F5-1A-F9-EB-29-DE-5E-14-8F-C1-2B-0F-32-C1-47
+	}
+	FILE
+	{
+		filename = SM_Armory/Extras/UniversalRadar/UniversalRadar.cfg
+		SHA = 72-B6-A0-A6-07-9B-50-FF-48-5E-7C-69-76-05-A0-4C-6F-D3-4D-AC-4D-BB-F2-9D-ED-9F-CD-56-23-D3-71-EE
+	}
+	FILE
+	{
+		filename = SM_Armory/Extras/weaponProbe/weaponProbe.cfg
+		SHA = D6-54-61-3A-0C-D5-12-5E-5D-6B-12-16-0B-36-5A-A4-0A-76-DF-D8-57-8F-8E-CB-91-A8-F9-E1-6B-A6-57-07
+	}
+	FILE
+	{
+		filename = SM_Armory/Localization/localization-en-us.cfg
+		SHA = 64-F5-C1-FC-80-3D-1B-71-BF-36-02-02-FC-18-D5-5F-6B-7C-3A-68-00-EA-A1-2E-99-B1-EF-62-0C-7A-2A-81
+	}
+	FILE
+	{
+		filename = SM_Armory/Parts/Config/BristolBloodhound.cfg
+		SHA = 59-51-B0-FB-19-58-B3-54-3C-CD-92-FC-BE-1E-67-05-35-8D-B2-EF-7F-04-CB-C3-F0-AB-86-2B-C0-E4-38-AD
+	}
+	FILE
+	{
+		filename = SM_Armory/Patches/Armor_SMI.cfg
+		SHA = 8A-0F-64-55-11-7D-15-F2-35-94-73-04-81-75-C2-2A-B2-D0-D1-29-E7-3E-32-5C-85-BA-49-44-C6-00-CA-E4
+	}
+	FILE
+	{
+		filename = SM_Armory/Patches/BDA_Control_MM.cfg
+		SHA = F8-F8-CA-8D-54-0B-21-CC-0D-E2-00-E5-F1-01-C9-E0-C9-BC-C3-8D-3C-01-33-35-87-06-9D-E6-CB-C3-BA-F6
+	}
+	FILE
+	{
+		filename = SM_Armory/Patches/MissileNodePatch.cfg
+		SHA = D7-B0-64-5A-06-88-51-09-EA-CC-BC-B6-E2-20-CC-11-19-0E-CF-66-56-35-78-95-15-F8-AB-B8-7B-20-FF-E2
+	}
+	FILE
+	{
+		filename = SM_Armory/Patches/tweakscale.cfg
+		SHA = 8E-D1-82-E9-D6-3E-06-A7-1F-3B-8B-41-26-56-F9-1E-64-B5-F7-3D-EA-DA-86-4D-27-24-71-DC-73-F5-16-4A
 	}
 	FILE
 	{
@@ -6475,16 +6850,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = SXT/OldParts/LargeJet.cfg
-		SHA = 12-B5-4F-90-F7-86-89-2A-AD-7D-CF-04-0F-53-DA-12-A9-D5-3F-D2-D4-5C-54-DA-03-B5-F3-A9-C3-46-CD-5B
-	}
-	FILE
-	{
-		filename = SXT/OldParts/mk3Ramp.cfg
-		SHA = 98-02-99-7F-E3-C1-36-EF-8E-48-01-EE-8A-35-A5-F5-FF-0A-49-A2-5D-A1-20-86-1D-B5-05-89-3C-39-89-FE
-	}
-	FILE
-	{
 		filename = SXT/Parts/Aviation/Aero/airIntake/part1.cfg
 		SHA = 76-8D-6D-BD-F3-40-A3-7E-19-9A-B9-12-25-89-CE-C3-51-45-69-25-E1-6F-AA-A2-A4-9C-78-AF-52-1C-7C-6C
 	}
@@ -6910,501 +7275,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = SXT/Parts/Rocketry/Aero/noseCone/part.cfg
-		SHA = 78-CE-C3-90-CC-4F-F3-CB-20-F6-CC-0C-6C-02-47-B3-49-B9-17-11-8E-B4-E4-22-43-26-E7-9A-1B-AC-D3-F2
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Command/MEM/part.cfg
-		SHA = 39-06-EE-BB-57-BE-3E-87-14-3D-3F-70-D7-DE-2B-38-E2-87-92-6E-0D-9A-2E-63-40-8C-04-47-01-E7-F2-27
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Command/MEM/partDescentModule.cfg
-		SHA = 70-DC-10-18-B9-72-27-8C-A5-AC-26-0B-F6-66-D7-52-29-9B-7A-49-39-DC-78-B6-7F-84-53-85-AA-C9-CB-81
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Control/OMS/O-40-a.cfg
-		SHA = 08-36-76-D7-D6-27-74-DA-80-3A-76-DC-DD-83-44-36-03-3D-1C-DC-6A-58-1C-22-36-D0-7D-1B-D6-AD-EE-3C
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Control/OMS/part.cfg
-		SHA = 1D-10-25-98-FA-B6-7B-E8-30-0C-C4-34-C6-4F-F4-80-17-0C-AA-67-D3-B2-C3-7C-ED-62-8A-73-BC-8D-B4-5D
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Control/RCSBoon/part.cfg
-		SHA = F8-A2-2B-92-7A-37-AE-4D-C4-19-00-84-9A-3C-C1-B9-9E-82-89-72-6B-C0-2F-CF-03-11-D7-67-20-EF-F2-E1
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Control/RCSRack/part.cfg
-		SHA = 37-16-24-8A-26-0D-86-36-7B-36-8A-46-43-BC-48-4D-B1-6D-51-35-6D-5B-13-EA-FB-1D-88-27-31-A9-E3-E1
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Control/Vernier/part.cfg
-		SHA = 73-22-49-43-E9-87-AB-10-48-D0-8A-A2-DE-9E-F6-88-0C-12-54-40-99-83-5D-42-65-A7-24-A7-21-75-30-7E
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/BlackAdder/BlackAdder.cfg
-		SHA = 96-D9-1C-6F-5B-8E-06-FC-3D-31-1C-A5-2E-83-16-5D-2E-F3-B6-EF-85-2B-76-66-58-D7-97-5C-04-25-EC-DA
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/BlackAdder/BlackAdderGoesForth.cfg
-		SHA = 91-4E-02-B6-34-0B-77-58-D6-2F-4B-47-64-91-6E-88-74-DA-69-60-F1-FE-0B-6C-03-53-4C-0F-AE-6E-00-DE
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/BlackAdder/Waxwig.cfg
-		SHA = 25-6C-F2-FA-07-43-53-CD-5B-39-0B-48-38-52-12-13-1B-62-6E-3C-E7-34-8F-79-12-AD-66-68-11-66-05-00
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/J2Engine/part.cfg
-		SHA = B5-05-31-4D-66-63-D5-97-E0-28-F1-82-5C-16-0F-11-12-10-47-DF-68-FC-B5-98-EE-56-A2-D3-DF-D1-97-B5
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/K170/25mEngineMidrange.cfg
-		SHA = E5-44-21-F2-6A-97-CE-C2-84-69-28-07-E7-35-D0-16-6F-FB-16-6F-F9-16-7E-57-CA-E0-61-18-92-14-EC-69
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/K170/part.cfg
-		SHA = 0F-B8-1D-6E-DD-41-67-5C-EA-E7-38-65-88-48-2E-D0-5B-22-A0-A5-79-5C-00-66-D8-E3-B5-C0-DB-7D-E2-2A
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/KickMotor/PALMX30.cfg
-		SHA = 48-64-A4-E9-FE-E4-52-C7-0B-8F-27-AC-CF-CD-9D-96-D1-EB-B3-DD-6D-CA-2D-21-E2-7B-9F-ED-98-78-DE-85
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/Kopo4e/KOPO4E.cfg
-		SHA = 73-91-23-73-E2-95-87-1B-DD-3B-FE-A4-7D-A3-46-D8-8B-B9-E2-36-91-7E-D7-BB-72-BA-E3-C5-4E-6C-35-7A
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/NERVA/part.cfg
-		SHA = 62-42-5C-9A-C0-04-2A-1E-69-6A-F1-B1-EE-E6-93-9A-30-F8-D9-7F-09-6A-B9-BB-CA-0A-79-D9-23-C1-77-F2
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/NERVA/partFatmun.cfg
-		SHA = E9-53-F2-F3-90-21-BE-AE-A5-AB-4D-5F-CB-9D-2D-71-71-90-F5-C0-DF-E6-C5-81-45-80-D2-E7-7A-44-FA-E8
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/size2SRB/part.cfg
-		SHA = 01-E6-EB-71-0E-10-4F-B6-DB-50-D6-90-44-08-D3-68-7C-E3-E7-82-AA-1F-12-D2-CC-C2-8A-BE-FB-C4-0F-14
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/Vanguard/AJ10.cfg
-		SHA = D0-3D-9D-DA-80-BB-D5-DF-BD-FA-28-59-E6-B5-5F-A0-B3-C4-FD-C7-B5-AB-68-EF-36-94-01-C5-55-A4-C7-05
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/Vanguard/AJ10LongNozzle.cfg
-		SHA = 94-0D-76-E3-B5-84-16-AD-1A-45-30-FC-AD-C4-4B-81-C0-F8-BD-42-FC-FB-9F-05-B1-3C-16-01-A9-17-69-DE
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/Vanguard/launchClamp1.cfg
-		SHA = 3D-15-EA-6F-31-4D-8D-D5-45-CE-26-7B-F5-5A-8C-57-F3-50-0E-E2-30-4E-1E-3B-D2-FF-00-72-EC-9E-16-10
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Engine/Vanguard/X405.cfg
-		SHA = CF-52-75-B6-75-73-60-AE-D0-CA-4F-DE-5B-49-EA-78-99-26-ED-11-AC-1D-03-DB-AC-D6-54-B6-17-E5-0F-EE
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/Barrel/fuelTank.cfg
-		SHA = 62-05-3F-00-A6-57-A1-10-89-7D-50-11-D2-8E-92-BF-78-8C-CA-C2-E3-0F-C3-EB-8C-90-BF-AE-83-AF-0B-24
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/CargoBay1/part.cfg
-		SHA = B4-14-1F-A3-AD-32-09-83-13-4E-E4-44-48-15-D4-DF-2C-77-01-83-BD-AF-94-2C-7C-4A-60-9A-6C-A5-E2-69
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/part.cfg
-		SHA = DB-11-BD-6B-0F-99-BE-5F-7E-6E-E8-C4-51-64-61-F7-4F-57-BC-2A-5C-65-3A-45-EA-54-4F-51-20-66-24-F3
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/partGold.cfg
-		SHA = B6-F9-98-3F-8E-EF-6F-79-AD-FD-8E-5C-13-1B-94-99-16-DC-3D-E1-3F-71-0C-74-F6-D7-CD-3B-A0-DA-90-91
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/partStandalone.cfg
-		SHA = 37-5F-C9-83-AE-C8-D5-63-47-9A-42-A7-F1-82-C8-AC-E4-66-29-90-1D-0D-E8-BA-B6-07-13-F6-A7-A1-D8-17
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/partStructural.cfg
-		SHA = 65-4B-96-70-DA-FC-C4-52-55-27-7B-A6-89-AD-6F-1C-22-5B-11-91-5F-2D-50-3D-2A-BF-F5-F8-65-9C-76-20
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/partStructuralBasic.cfg
-		SHA = 32-D4-A8-8E-35-91-DF-20-E2-B8-29-C6-97-47-8E-6B-C5-5B-B2-03-31-47-42-CF-BB-D9-FD-3F-3D-81-E3-FB
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/partStructuralOpen.cfg
-		SHA = 8C-9F-69-DC-77-D0-B1-B7-2C-04-F4-CD-80-6C-FB-34-C2-7E-EE-09-E9-4B-68-EA-82-72-F7-B6-94-EE-6E-85
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/2-5m/partStructuralOpenSmall.cfg
-		SHA = BA-00-77-9C-1E-79-95-15-1B-F1-35-BC-3C-74-C2-75-3B-B8-3C-D1-E1-DE-8C-AB-3E-88-AD-CC-57-7E-D2-ED
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/part.cfg
-		SHA = 76-7C-65-FD-D8-4B-57-34-76-A2-B7-22-BE-FA-A8-1A-2A-1A-A1-4A-24-08-F9-8E-44-C1-5E-58-09-32-E1-74
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/partGold.cfg
-		SHA = E7-60-F3-1C-E1-2B-E1-0E-81-F2-38-21-64-87-8E-05-AE-FB-E0-E1-B6-60-47-AC-9A-11-D8-C4-36-A9-B6-FD
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/partStandalone.cfg
-		SHA = B6-4F-17-6E-94-F2-52-36-DD-B6-52-19-48-0B-30-7D-06-01-6D-1A-93-4E-D1-05-36-DE-F0-9B-10-47-70-B6
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/partStructural.cfg
-		SHA = 74-F3-F8-BE-DC-7C-D3-4B-68-76-74-AD-46-AF-25-06-9C-76-61-92-CC-B9-9E-EB-EE-39-E9-4D-D1-59-97-A5
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/partStructuralBasic.cfg
-		SHA = 7F-BC-24-7B-C1-6A-8B-18-E1-03-6B-63-47-BD-E0-B7-33-6B-EF-4E-DD-26-09-6D-75-71-8C-AC-08-4E-8D-20
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/partStructuralOpen.cfg
-		SHA = 6A-74-8D-CF-F0-AB-27-68-56-75-74-50-1E-90-57-F6-28-4D-6E-80-86-F5-71-78-88-C6-D5-BC-60-69-A7-D8
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/inflatableTank/3-75m/partStructuralOpenSmall.cfg
-		SHA = E0-98-32-5D-74-BD-FC-6F-29-C6-51-91-73-2E-DA-0A-CD-66-30-2E-95-58-5F-F2-3F-44-53-71-C4-D0-C1-90
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/NASA25m/16.cfg
-		SHA = 3F-B0-43-A4-CC-C0-DC-6F-48-55-6E-27-E9-11-00-F2-CA-25-4D-0F-17-A6-86-4E-6F-DA-1D-F2-61-A3-D2-B5
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/NASA25m/32.cfg
-		SHA = 1C-A4-F2-66-D5-84-DB-62-04-19-BA-AD-6B-8C-C2-C1-74-BE-6F-1E-2E-BE-BB-1D-D2-5C-9A-22-AB-BF-50-AB
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/NASA25m/64.cfg
-		SHA = 7F-1A-76-93-F4-E1-49-60-E2-20-F8-FE-11-E0-B1-FB-B6-1B-DB-AF-B3-89-F7-76-FF-BD-3A-F9-AB-0C-FE-77
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/RadialFuel/part.cfg
-		SHA = 44-0D-02-7A-07-10-6A-32-AB-CC-43-32-75-1C-07-50-A9-B9-8D-76-5A-42-6D-27-15-6F-57-5C-CA-A4-E6-26
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Hull/Vanguard/fuelTank.cfg
-		SHA = 1E-5A-08-0C-8C-D4-27-45-E6-96-70-EF-0C-E5-39-7B-CC-01-FE-D8-AA-D1-FD-38-2F-3C-A1-B3-B6-09-BE-F7
-	}
-	FILE
-	{
-		filename = SXT/Parts/Rocketry/Utility/RadialAttachShroud/part.cfg
-		SHA = 0E-52-D1-72-96-78-D0-38-52-15-25-3F-0C-82-00-8E-1E-4A-86-CA-1E-8F-7E-D8-0C-AB-48-F3-4C-80-FF-36
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Electrical/RTG/part.cfg
-		SHA = 36-04-8F-C4-5C-13-9C-8A-EA-4D-36-6B-68-19-56-07-93-0F-C8-7D-CF-45-FD-FF-56-97-EA-77-FF-3D-37-D2
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Electrical/RTG/partBasic.cfg
-		SHA = 4D-7E-5A-9C-90-CA-54-0A-5F-F3-D4-AE-06-2D-00-61-EC-D4-59-FA-F6-6C-F6-3A-E0-4A-46-2A-03-A3-BE-F0
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Electrical/solarHex/part.cfg
-		SHA = C3-FB-0E-E1-C8-C9-EA-08-7C-B6-4E-20-08-C4-FF-4C-56-FF-21-CA-77-3F-17-54-F1-9E-F7-F1-14-88-62-70
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Electrical/solarHex/partLarge.cfg
-		SHA = 6C-2B-08-38-B8-38-27-49-EC-50-43-E4-F4-7C-94-9F-2D-7F-BB-7C-70-B7-60-14-44-6E-5F-86-57-C8-D6-23
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/CANIOT/part.cfg
-		SHA = 6B-60-60-26-63-32-81-1A-D1-F6-66-7C-C5-65-86-0C-E1-CB-B9-F6-95-9B-30-5F-1D-0A-D0-13-81-6F-31-95
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/DLK-S3EHabitat.cfg
-		SHA = 3C-78-30-F1-37-25-64-33-B0-20-4B-C3-EA-54-AD-E7-87-77-AC-49-0B-DA-80-F4-5B-79-0B-D2-D0-2C-4B-53
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/fuelTank.cfg
-		SHA = B7-84-62-0F-AC-01-83-10-8E-4B-80-03-60-2A-24-5D-EA-26-59-64-86-62-9F-2F-34-F1-DB-B6-03-D6-AA-36
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/ISK-30CrewCabin.cfg
-		SHA = F5-DF-33-A5-9F-20-46-B1-39-52-51-6D-E2-42-55-F6-7A-43-BC-0B-E1-97-2D-D8-59-A9-9F-77-AF-38-E0-6F
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/LanderModule.cfg
-		SHA = B3-7D-2B-CA-D2-81-7E-CD-47-43-80-3F-06-57-33-47-13-10-9B-CE-DB-00-38-E1-61-E6-54-91-8B-BC-D7-14
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/serviceModule.cfg
-		SHA = 84-6D-86-92-E9-AC-31-7C-78-F3-23-86-43-E6-7B-B2-C5-F4-86-DF-43-9B-6F-A8-EF-E5-6D-20-07-98-09-3C
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/smallFuelTank.cfg
-		SHA = 89-41-CF-9A-C2-AA-72-6D-97-B8-17-DA-C5-64-83-6B-84-BC-83-38-39-D0-DD-48-84-15-F5-B8-C2-43-2E-23
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/smallScience.cfg
-		SHA = 6F-3D-6A-E4-56-A7-48-CB-64-19-70-94-07-8A-19-DA-C0-66-7C-EF-62-E8-3D-9C-CD-F0-76-9C-97-33-70-6E
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/smallServiceModule.cfg
-		SHA = 08-E9-04-DE-A7-10-F0-85-89-94-42-29-46-14-F7-BA-03-38-93-74-46-F1-28-5B-38-97-3B-4E-B1-70-2E-9A
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/SSP-10CrewCabin.cfg
-		SHA = 5A-08-F8-6F-E3-30-26-09-CF-EA-4B-4C-1B-37-89-AF-BE-81-78-68-BA-DF-2A-53-5C-1E-88-EE-26-78-09-35
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/ServiceMod1/SSP-20CrewCabin.cfg
-		SHA = 98-5A-61-72-31-0C-BF-59-DB-84-E6-7B-13-93-12-5A-31-AD-17-93-5A-BD-AF-58-3A-E7-4E-84-12-1D-4B-8A
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Hull/SPKTR/part.cfg
-		SHA = C7-97-06-BE-33-C4-29-A5-2E-18-A1-F5-70-F8-DD-56-CA-C4-FC-15-F5-50-1F-E8-FC-BE-16-71-66-23-12-F7
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/RotatingMk2Ring/part.cfg
-		SHA = 82-49-38-67-63-37-70-BE-F8-22-AA-5A-4B-A3-9A-F9-A3-3D-2E-4F-B5-CD-36-1B-54-5D-87-31-B6-B7-8E-A1
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/Airlock/internal.cfg
-		SHA = D4-DF-F7-55-F5-DF-4C-FC-5A-87-0E-1F-6F-AF-AF-AF-9A-0A-CE-57-F3-73-38-D7-5A-8C-B0-62-28-7B-90-79
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/Airlock/part.cfg
-		SHA = 63-7E-13-26-80-A8-BE-A1-F4-FB-96-50-44-D4-20-6A-C7-A7-CB-7F-8B-0A-E0-44-B5-20-C1-89-0B-E3-07-AA
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/capsuleHat/part.cfg
-		SHA = 52-45-28-F6-23-77-C1-45-98-27-56-0E-68-11-DC-B6-96-86-55-01-93-91-68-B7-9D-A9-F2-EE-9C-45-14-84
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/dockingPort375/dockingPortSr.cfg
-		SHA = 4F-FA-9C-E0-C9-57-9C-6F-4C-1A-62-6F-C6-75-2D-3E-55-2F-79-17-B8-03-71-94-21-20-51-BC-15-3F-A5-71
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/smallPipes/6way.cfg
-		SHA = 1A-27-33-41-54-EE-F9-49-56-63-48-C7-9E-DE-D5-CE-40-BA-C5-CD-83-FF-05-47-B3-35-9C-CE-4A-13-25-07
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/smallPipes/long.cfg
-		SHA = FE-9B-53-EB-A8-2B-11-6B-4B-10-A1-6D-1F-48-2D-5B-4E-75-3B-ED-4A-DA-C3-81-7E-43-12-D9-0B-CF-F8-FF
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/smallPipes/short.cfg
-		SHA = 19-44-E4-BD-3E-04-61-2B-7F-2E-B7-CF-27-6D-B8-CA-F8-20-E9-B6-D5-42-C2-DF-37-2F-FF-E7-3A-4D-A3-2E
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/smallPipes/turn.cfg
-		SHA = 57-7D-75-C7-79-82-82-2B-78-7D-08-B3-77-95-7A-D1-7C-29-1D-02-0A-0E-B5-D6-C3-7D-C5-F6-D5-D6-93-A3
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/smallPipes/GirderSet/long.cfg
-		SHA = A4-4B-2A-DE-D1-14-8E-8C-DB-12-F9-4D-BA-63-E7-B7-CE-58-6D-5B-94-29-6D-78-66-1B-00-FD-D5-4B-3B-F7
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/structuralPanel/part.cfg
-		SHA = 9C-73-CA-D2-86-F8-05-38-B9-92-7F-49-0A-D7-C4-F3-E1-56-EC-5E-1A-10-BC-0A-9E-0E-78-DD-57-98-CF-3F
-	}
-	FILE
-	{
-		filename = SXT/Parts/StationsBases/Utility/structuralPanel/partHexagon.cfg
-		SHA = 3E-40-EF-5E-5A-6B-01-CD-AC-63-27-DB-C6-55-92-41-E9-98-76-B6-07-88-56-AA-D0-6B-2A-1A-14-F4-53-80
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Engine/K15/partLarge.cfg
-		SHA = 7F-6D-4F-2D-75-01-C5-64-C9-DA-8B-54-A3-DA-47-59-0D-E2-FC-85-9C-6C-F0-F5-56-0C-8C-31-13-57-87-FB
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Engine/K15/partMedium.cfg
-		SHA = 49-5F-EA-7F-76-F8-0D-91-F4-AB-1F-AB-98-2E-7C-D9-15-6E-89-81-F8-FB-E6-C6-C5-9D-CA-40-D8-2D-2F-80
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Engine/K15/partzNK21.cfg
-		SHA = BF-9F-70-E5-16-60-CD-90-BB-81-35-45-31-50-4B-01-1F-9A-B0-88-97-58-B0-F6-6B-F9-AE-F3-2B-61-09-CA
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Engine/K15/stackSeperator.cfg
-		SHA = A0-E2-BC-4D-73-F6-24-32-14-14-66-DC-94-DE-F0-D2-0B-3A-94-58-F4-B2-84-73-90-85-25-89-90-07-3A-47
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Engine/K15/stackSeperator2.cfg
-		SHA = 69-13-70-55-F1-FD-09-60-74-F4-82-C4-90-03-EB-55-76-F8-98-91-C6-61-43-62-45-F2-10-CB-89-98-F8-AA
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Hull/5mQuadAdaptor/part.cfg
-		SHA = AC-E0-6A-73-41-B7-58-D5-07-F3-3C-20-42-FD-77-73-FC-3D-78-57-22-53-36-A8-D3-96-AC-D6-F7-DB-D1-79
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Hull/5mQuadAdaptor/size23adapt.cfg
-		SHA = 3E-7B-11-D3-D1-01-EC-49-7B-76-DF-E0-9E-D7-E7-49-15-13-01-97-A1-C7-44-DC-2D-91-06-3F-C0-F7-87-8D
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/5mTank0.cfg
-		SHA = 3D-96-F0-3D-25-E5-3F-A1-E3-0A-C9-3D-38-D4-20-18-D8-F1-64-81-A1-2A-8B-58-31-00-30-7F-43-C6-54-C7
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/5mTank0NoseCap.cfg
-		SHA = 34-FE-42-F1-46-99-9D-24-6B-00-5C-51-CB-FC-18-86-76-08-E1-1F-CB-72-80-9D-31-2D-66-A9-7A-4C-DA-49
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/5mTank1.cfg
-		SHA = 69-1C-E2-17-EE-E4-34-E9-D1-06-B7-3F-0B-01-42-75-EC-C2-DF-70-95-D6-A7-BA-5E-96-38-73-D8-C7-F6-43
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/5mTank2.cfg
-		SHA = F1-91-EB-52-A6-5C-05-88-01-1E-A4-3A-22-FC-3A-57-3A-99-A9-CC-11-02-B8-B8-A5-6A-3E-43-82-66-FC-E3
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/5mTank3.cfg
-		SHA = 1A-A0-6C-EF-1C-F6-15-E1-91-DC-98-D2-0E-81-53-43-28-60-5A-8D-BE-36-03-22-20-52-AD-F8-69-08-94-22
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/size5multiengine.cfg
-		SHA = 2B-7E-0A-50-E4-B9-6B-84-00-2D-5B-5D-CF-D8-48-62-0A-49-82-43-AC-E7-04-E4-98-A4-07-6F-33-BB-11-04
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage1-2.cfg
-		SHA = D2-1F-99-D4-82-D3-73-81-04-53-48-69-8A-72-71-76-7B-0C-6F-9C-C8-00-39-E5-30-8A-0B-6E-98-FE-B8-43
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage1-2Small.cfg
-		SHA = DC-B9-8B-44-1E-99-4E-C9-9C-A0-5F-B7-22-B0-36-14-DD-EF-73-76-1D-81-CC-A3-F1-3F-45-5C-FB-D1-0C-6C
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage1Base.cfg
-		SHA = 9A-7B-D7-2A-E8-B4-55-81-1B-A8-01-D8-F5-43-56-0F-3A-8F-39-89-BB-8E-B9-C1-CA-55-CC-EC-21-63-00-70
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage2Adapt.cfg
-		SHA = 29-D7-09-BF-B8-F9-32-A0-9E-D4-73-11-5D-FF-19-5D-BD-10-7D-C8-26-64-1B-B1-7F-F9-2A-44-D5-5B-27-6D
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage2Engine.cfg
-		SHA = 71-EB-C9-6C-3B-1F-10-B3-21-29-EC-45-10-B8-0D-60-51-52-AB-AB-E1-26-24-9B-A6-6D-3E-3D-24-D5-EF-61
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage3.cfg
-		SHA = 84-60-42-7E-5A-BC-9C-FF-38-EE-D4-E9-12-EC-A1-B7-B5-58-32-E1-6F-5F-27-2E-6C-BF-C6-0A-68-85-76-79
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage3Engine.cfg
-		SHA = DA-4D-C1-38-C7-AA-9C-CE-67-9C-54-7E-5E-3A-7A-E8-E1-C0-F6-70-5D-31-AC-3B-0E-A7-4F-A7-D9-7F-EB-9C
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/SaturnV/Stage3Upper.cfg
-		SHA = CD-EE-A9-76-0B-73-DE-60-D8-3C-3A-F6-1B-8B-05-13-EE-B4-85-11-E6-31-FD-AD-43-C4-21-23-C2-4C-B7-0A
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Tsar/2-5-3-75.cfg
-		SHA = AC-3C-8C-5F-E2-00-EB-CC-07-B5-7E-63-DC-09-3D-47-25-29-F4-30-1D-89-8C-BB-3D-85-A6-2D-DE-F0-DB-3B
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Tsar/3-75-0.cfg
-		SHA = 30-A3-C0-2D-48-04-8A-6F-E4-FA-7D-9A-24-E6-C3-52-BD-85-BB-E6-96-22-55-F6-2C-96-DB-8A-60-A7-03-10
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Tsar/3-75-5.cfg
-		SHA = 85-53-95-5D-E9-B1-A5-36-D4-77-89-38-E2-28-6F-20-1E-83-A9-76-2C-3D-BF-48-D8-C8-F8-CC-08-97-E2-67
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Tsar/5-to-7-25.cfg
-		SHA = DE-2C-07-18-0C-90-73-E1-21-FC-B2-4B-CB-E8-D4-C7-5B-40-D3-D8-1D-08-D9-88-D2-FE-A4-03-3E-7C-40-3F
-	}
-	FILE
-	{
-		filename = SXT/Parts/SuperLaunchers/Tsar/gridfin.cfg
-		SHA = F2-64-9D-B5-65-54-97-77-5B-F7-9D-52-59-0C-43-AD-E6-8F-0B-7D-31-DC-71-D7-54-AB-19-A3-81-8C-42-B4
-	}
-	FILE
-	{
 		filename = SXT/Parts/Trucks/Utility/truck/box.cfg
 		SHA = 26-B6-A3-61-B1-42-02-E5-E6-8B-87-76-31-CA-43-CE-E6-98-CE-3E-3F-5D-BA-29-30-5F-80-AE-21-18-CB-0C
 	}
@@ -7761,7 +7631,7 @@ FilesSHA
 	FILE
 	{
 		filename = TweakScale/Deprecating/patches/NF/NFS_TweakScale.cfg
-		SHA = 6A-C1-64-68-13-1F-88-27-E6-84-D3-B1-CC-A1-96-5F-AF-BB-EC-C6-6E-8B-AC-02-45-BF-64-97-55-D1-55-9B
+		SHA = 31-D2-82-65-74-1E-05-AD-C7-25-76-8D-92-EC-84-D1-7B-36-BD-6F-F1-F0-01-7C-62-D8-33-FF-79-A2-69-CE
 	}
 	FILE
 	{
@@ -7986,7 +7856,7 @@ FilesSHA
 	FILE
 	{
 		filename = TweakScale/patches/NF/NFS_TweakScale.cfg
-		SHA = 31-D2-82-65-74-1E-05-AD-C7-25-76-8D-92-EC-84-D1-7B-36-BD-6F-F1-F0-01-7C-62-D8-33-FF-79-A2-69-CE
+		SHA = A8-26-E0-E6-20-E1-76-D5-03-50-9B-6B-0F-AE-79-2B-BA-A8-BE-88-0C-31-70-F3-47-23-1F-DA-E7-85-46-47
 	}
 	FILE
 	{
