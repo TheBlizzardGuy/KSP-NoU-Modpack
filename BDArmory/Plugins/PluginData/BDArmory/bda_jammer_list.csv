@@ -1,0 +1,13 @@
+NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;alwaysOn;rcsReduction;rcsReducationFactor;lockbreaker;lockbreak_strength;jammerStrength
+bahaECMJammer;AN/ALQ-131 ECM Jammer;BahamutoD;Bahamuto Dynamics;0.3;600;7;3600;False;False;0;True;500;1200
+PSSM;RU Plasma Stealth System Module;BahamutoD & Kerwis;Kerbal Liberation Army;0.001;60000;700;3600;False;True;0.4;True;2500;3500
+3XR;3XR;Johnny005611;Johnny005611;5;950;600;520000;False;True;0;True;50;120
+J10C;NMB-J10C Cockpit with DIS intake;Bingo;Kerbal Battle Field;1.2;8888;80;2400;True;True;0.9;False;0;0
+SUPER-SYLPH;NMB FFR-31MR-D-SUPER SYLPH;Bingo;Kerbal Battle Field;2;8888;80;2400;True;True;0.5;False;0;0
+Type-AdvancedFlanker;NMB-Type-AdvancedFlanker Cockpit;Bingo;Kerbal Battle Field;1.8;8888;80;2400;True;True;0.8;False;0;0
+type20Cockpit;NMB-type-20-2 Cockpit with DIS intake;Bingo;Kerbal Battle Field;2.5;8888;80;2400;True;True;0.2;False;0;0
+type-20Cockpit;NMB-type-20 Cockpit with DIS intake;Bingo;Kerbal Battle Field;2.5;8888;80;2400;True;True;0.2;False;0;0
+Type-22Cockpit;Type22 cockpit with CARET intake;Bingo;Kerbal Battle Field;2;1600;80;1600;True;True;0.2;False;0;5
+Type-35-Cockpit;NMB-Type 35 Cockpit with DSI intake;Bingo;Kerbal Battle Field;2.2;8888;80;2400;True;True;0.4;False;0;0
+Type-57-Cockpit;NMB-Type 57 Cockpit;Bingo;Kerbal Battle Field;1.6;8888;80;2400;True;True;0.3;False;0;0
+jamm.alt28;AN/ALT-28 Noise Jammer;Toonu;Probodobodyne Inc;0.005;8800;8;1200;False;False;0;True;200;500
