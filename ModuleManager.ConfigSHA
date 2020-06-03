@@ -1,4 +1,4 @@
-SHA = 6A-79-24-21-D8-78-B7-E5-45-BE-63-AF-AE-38-80-40-A0-9E-16-77-36-DD-07-BE-41-60-7F-DB-2D-23-92-DF
+SHA = FA-88-92-70-6B-58-01-A4-C0-D5-AB-CB-34-8E-14-52-6F-1B-1B-D4-29-24-91-43-83-C8-95-BD-30-F3-60-66
 version = 4.1.3.0
 KSPVersion = 1.8.1.2694
 FilesSHA
@@ -397,6 +397,21 @@ FilesSHA
 	{
 		filename = AirplanePlus/Parts/Payload/PassengerDoor/part.cfg
 		SHA = BE-B2-E5-AA-24-75-36-DA-A0-3B-38-76-AC-1A-2B-18-07-2B-71-32-58-84-C7-5B-6E-FF-6B-AD-EB-8A-03-09
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/mk0radial/partboom.cfg
+		SHA = 7C-CE-DC-04-40-A9-89-CF-7D-9C-EE-E0-38-01-D4-D3-56-9F-C5-23-98-47-3A-E6-73-5A-21-01-7C-D5-70-31
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/mk0radial/parthalfmini.cfg
+		SHA = 24-0B-55-B5-FD-70-09-FB-FF-56-D2-A7-3C-B2-3D-83-C8-A8-78-93-3E-72-0C-21-6D-23-E6-10-5F-50-F3-F5
+	}
+	FILE
+	{
+		filename = AirplanePlus/Parts/Structure and Fuel/mk0radial/partshortboom.cfg
+		SHA = 8E-F9-C7-05-A4-B0-FB-F4-3B-0A-70-52-3C-EE-C3-26-F9-C3-94-6E-61-0A-20-68-B9-D0-F2-06-77-22-21-46
 	}
 	FILE
 	{
@@ -1471,7 +1486,7 @@ FilesSHA
 	FILE
 	{
 		filename = BDArmory/settings.cfg
-		SHA = C5-9E-4E-F3-44-0E-3D-68-82-B5-55-B9-EB-31-91-8C-99-1D-EA-82-0B-44-CF-64-59-8D-DD-F6-A0-3D-4F-56
+		SHA = 48-68-10-20-30-7E-9E-AC-F1-5B-D8-E2-4F-13-C0-7A-FF-95-31-13-BC-80-AD-86-05-C4-01-A3-A2-B7-DA-07
 	}
 	FILE
 	{
@@ -4536,7 +4551,7 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/AGM/AGM-28.cfg
-		SHA = D1-1B-D3-63-40-DD-34-7A-2D-B4-DD-DE-C5-27-AF-44-A0-AA-E3-64-54-DE-15-1D-81-24-76-0D-9F-59-66-3D
+		SHA = 79-D4-AB-7B-D1-13-41-6D-42-E0-5A-EA-49-FC-CD-0A-CD-5D-D0-FB-E2-02-A1-58-C2-43-90-23-20-45-38-26
 	}
 	FILE
 	{
@@ -4581,7 +4596,7 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/EU/FIM-43.cfg
-		SHA = 17-91-15-AA-5E-B4-F7-78-A3-5E-6C-12-90-8E-09-5D-EA-2E-D4-52-4D-62-2A-97-1C-41-F6-DF-1A-26-DF-B4
+		SHA = F8-AD-8D-DA-D6-0A-82-84-D3-F1-2A-B4-95-F5-44-6A-CB-0E-43-6D-A9-2D-D9-57-08-74-64-E7-07-86-7D-C7
 	}
 	FILE
 	{
@@ -4706,7 +4721,7 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/RF/KSR2.cfg
-		SHA = 85-AC-95-5D-DD-D5-7A-07-B0-6B-C0-CA-3B-0A-CF-BA-F6-6C-B2-A9-DD-D3-9D-2E-8B-EF-E3-8C-20-B4-98-6E
+		SHA = 47-E0-4F-64-3E-50-39-65-EB-B0-C3-1B-BE-64-21-F3-C4-9A-CA-CF-12-0D-0A-0D-93-5B-F9-FE-60-C0-85-CC
 	}
 	FILE
 	{
@@ -5175,6 +5190,601 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = SM_AFVs/Parts/8x8/Hemitt5thWheel.cfg
+		SHA = 2C-6D-AB-B2-DC-0C-E9-BC-D1-D2-42-FA-E6-FD-EF-6E-67-7B-45-C0-FC-A3-34-70-09-34-2F-B7-D0-72-02-06
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittCab2.cfg
+		SHA = A9-7B-07-5D-25-CB-F6-0E-E6-1D-CE-3A-48-52-BA-02-F1-4B-9B-D7-9A-CF-01-04-8C-D8-34-D2-BC-BA-31-7C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittFlatBed.cfg
+		SHA = 0B-A1-87-7B-89-CD-90-74-0C-1C-3E-29-FB-D4-FE-89-54-CA-95-B8-0B-4A-63-82-17-11-EA-BC-30-69-E2-2D
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittLoadBed.cfg
+		SHA = C6-C5-2A-CB-A6-24-13-B4-68-6E-B2-06-18-0F-DF-26-63-E5-B6-5C-A0-CD-F9-B3-1B-C5-CB-70-97-E7-17-19
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittLongChassis.cfg
+		SHA = 84-52-AE-5B-28-48-37-BC-F5-91-D8-D8-8E-E6-F7-E0-2D-D7-CB-C4-74-DE-7D-77-AD-F6-D1-BF-AA-B3-75-F2
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittPowerPack.cfg
+		SHA = 6F-7F-4A-90-59-00-AF-D9-94-3B-57-4C-4F-8F-52-D3-43-B0-FD-87-0C-4A-0E-83-50-43-D7-A5-7E-15-E6-87
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittShortBed.cfg
+		SHA = 1D-E8-F3-D7-85-98-0F-12-6C-8A-75-A7-66-50-C9-CE-64-AB-0D-39-C1-21-5C-BE-5B-11-65-EF-AD-DA-69-66
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/HemittShortChassis.cfg
+		SHA = D8-64-97-EA-FC-08-16-5F-E9-02-32-E9-5A-11-82-4D-08-B2-EE-0F-BA-59-34-D9-88-70-33-27-F8-97-0A-C4
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/8x8/Hemi_8x8.cfg
+		SHA = 7F-2D-F5-F5-10-E5-FA-9A-EA-22-8E-7C-D9-E5-9E-88-2A-AE-D2-A1-E2-CC-F5-53-61-A2-85-9E-7F-53-87-53
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/AAV7A1/AAV7A1Hull.cfg
+		SHA = DF-14-EA-E6-19-F5-E4-1E-AD-9D-53-8B-3C-C0-05-F9-AE-2A-A3-BF-97-D4-B2-AC-1B-DB-09-A3-48-27-7D-A8
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/AAV7A1/AAVArmor.cfg
+		SHA = 3A-31-78-38-CF-C5-17-8A-FF-2E-C0-DD-50-AA-78-EA-EC-06-DB-89-C5-28-14-D1-AD-11-12-B8-30-2A-51-D8
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/AAV7A1/AAVinternal.cfg
+		SHA = A6-C5-D4-D1-BB-8B-F6-9A-1C-54-57-BF-62-25-B7-8B-E0-6F-B8-1B-12-97-0D-B4-74-E4-57-BD-BB-62-79-57
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/AAVturret20/AAVturret20.cfg
+		SHA = 06-2A-91-1B-2D-79-BD-8A-69-1F-FB-F1-80-F7-CB-9D-21-79-F2-B4-50-CE-9F-ED-A4-F4-82-86-61-F5-04-50
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/AmmoBox/105AmmoboxSM.cfg
+		SHA = 14-A7-AC-95-4F-35-E2-22-9D-A8-80-63-7E-9C-8F-1A-C6-37-C8-56-DE-BC-73-47-B3-9C-5A-2E-01-FA-66-08
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/APC30Cg2A42/APC30Cg2A42.cfg
+		SHA = 3A-64-6B-8E-3E-23-20-9F-84-BC-B6-95-43-9C-59-8C-74-92-03-EE-D0-19-B0-06-5C-C9-57-A3-92-41-54-AF
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BareBoxChassis/45DegFacingPlate.cfg
+		SHA = 49-28-17-5D-B8-24-1F-7C-2F-9C-14-02-76-7F-EA-DD-89-03-2A-70-A9-41-8E-B3-A2-BC-18-D1-16-CD-89-BE
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BareBoxChassis/ArmorType5Upper.cfg
+		SHA = 51-D5-24-40-FB-7B-B7-16-70-95-CF-D4-D2-38-2F-48-DB-49-D8-72-2B-F1-78-04-BC-02-2B-19-1D-E3-0C-98
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BareBoxChassis/BareBoxChassis.cfg
+		SHA = A3-05-53-48-E1-3F-62-8F-F0-9D-B6-C2-26-5C-83-CA-D2-1C-A2-8F-03-8B-53-94-90-6F-EB-67-F1-78-28-02
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BareBoxChassis/BareBoxChassisLW.cfg
+		SHA = 76-8E-10-9F-BA-2C-71-C3-4E-AB-FE-CF-60-6A-C8-D7-B9-A1-34-81-EA-2D-BB-8A-09-2B-C5-3E-0F-3E-92-45
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BareBoxChassis/BareBoxChassisType2BExact.cfg
+		SHA = 38-78-64-57-83-9D-0E-8E-53-7D-C4-4D-CA-FA-16-0A-0B-47-30-E3-4B-61-2B-2A-BF-BC-B7-88-63-A8-6E-65
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BareBoxChassis/BareBoxChassisType5.cfg
+		SHA = D9-9B-30-8F-E8-03-EA-F0-AB-66-D1-41-4B-0E-6D-49-15-DA-6E-EA-29-9A-4F-C6-7D-A9-1B-EF-1A-60-59-18
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BMP/BMP75mmTurret.cfg
+		SHA = 7E-6E-2E-6E-62-B2-FC-91-0B-DF-FD-51-E2-C6-E0-96-21-81-8B-A4-AE-DB-D2-C1-68-18-33-03-BB-0E-FD-2A
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BMP/BMPinternal.cfg
+		SHA = C9-17-F0-2B-12-C9-30-56-03-BF-32-3C-8E-D5-63-50-F5-09-FF-CB-82-F1-49-A1-61-99-D5-0E-A5-F4-2D-B7
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BradleyIFV/BradInternal.cfg
+		SHA = A8-BB-60-F6-71-54-1B-D3-71-03-8C-8B-47-15-2E-92-CC-6E-2E-FB-7E-33-6D-7D-DA-85-AA-93-1C-19-DF-80
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BradleyIFV/BradleyActive.cfg
+		SHA = 69-1A-FD-79-8A-60-8E-35-F1-D1-56-91-D8-DE-1B-0C-95-08-9A-FF-2E-28-ED-8C-37-E1-92-B8-6E-D1-71-B4
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BradleyIFV/BradleyArmor.cfg
+		SHA = 0D-1D-CC-4B-1B-57-96-46-69-DA-6B-8A-33-AC-13-15-A9-47-00-92-6B-72-22-23-8C-45-09-C7-2B-4A-E9-D3
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/BradleyIFV/BradleyHull.cfg
+		SHA = 3A-5F-9E-2A-E9-F9-48-CD-74-0E-64-29-D1-EC-F0-77-1F-BA-3F-78-09-D7-27-95-DA-3D-0D-A7-70-6A-A1-E4
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Eland90/Eland90B.cfg
+		SHA = 9D-1D-77-F9-C1-3B-C0-BA-4D-7A-5F-F3-5E-56-74-90-01-3E-79-6E-9A-81-43-C4-06-C6-F0-B8-4A-96-92-54
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Eland90/Eland90BTurret.cfg
+		SHA = 76-6E-7C-44-EE-99-57-44-46-66-2A-F6-79-C0-A8-CC-A7-FB-40-6D-BF-75-4A-76-FE-12-7A-96-C9-3D-56-F2
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Eland90/ElandInternal.cfg
+		SHA = 64-0F-25-9E-6E-4B-EB-0E-C0-51-25-94-DF-1C-9C-3E-C5-F0-73-05-78-B9-0F-31-82-54-68-ED-AE-A1-3F-CD
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/FV510/FV510Hull.cfg
+		SHA = 3F-14-19-CA-EF-8F-89-F8-59-6D-32-DA-B7-2F-35-07-2B-F6-17-19-CA-8B-00-35-DB-F5-3B-A0-BA-82-09-7F
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/FV510/FV510Internal.cfg
+		SHA = 92-60-BE-AC-90-84-1D-CC-5E-5B-D3-EF-16-E0-72-49-3A-3F-5F-E0-9F-79-BC-EA-23-54-10-35-4C-D0-0A-0C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/FV510/FV510Turret.cfg
+		SHA = 26-50-F9-A4-C3-D7-58-70-BD-5A-24-D7-3A-A2-32-14-70-28-EF-DF-DC-D4-FB-8B-64-EB-BC-8A-85-3F-C9-69
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulerCab.cfg
+		SHA = D3-F7-60-62-44-F9-71-06-49-E6-2D-84-96-93-6C-3A-FB-C0-59-67-D1-EA-40-22-65-D8-0D-3D-A2-D0-50-C3
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulerInternal1.cfg
+		SHA = B7-CE-BB-2B-0B-98-DE-78-24-E7-F6-D1-2E-50-61-8E-F9-40-D5-2E-DF-0E-57-8F-C5-C4-1D-17-E4-E1-B8-8E
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulerLoadPack.cfg
+		SHA = A5-A7-EC-D0-4C-D5-EF-98-28-11-8A-AB-C1-8D-8C-BC-A9-D3-9C-39-4F-48-46-F7-FB-FC-8D-2A-C9-7D-2C-F8
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulermainChassis.cfg
+		SHA = 73-9D-A3-A2-8A-A1-C4-37-B1-5E-E7-67-BC-47-60-EB-71-48-6D-35-3C-11-A2-8F-DC-20-7E-FA-B7-E1-11-14
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulerTailramp.cfg
+		SHA = 0D-19-7A-BC-4D-85-B1-74-66-E4-28-81-7F-35-1C-94-3C-3E-07-69-A0-56-BA-BC-EA-2C-4E-09-E3-55-0D-D4
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulerTrailer.cfg
+		SHA = 1B-48-6C-D4-4F-07-1A-6D-B2-6D-C5-F0-3A-98-F6-BF-88-3D-B8-C6-A8-81-78-69-44-42-E5-9B-E6-2F-6D-86
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HaulerTrailerExtender.cfg
+		SHA = 20-81-0C-81-64-4B-24-50-E4-A8-D7-A5-A6-41-74-49-97-B6-EC-9A-61-64-46-AC-59-AE-13-24-AA-98-D2-CA
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/HDtractorTrailer/HTUCab.cfg
+		SHA = B8-C9-9C-10-19-21-F0-C6-79-F1-B6-0F-3A-D5-B4-DE-C0-11-74-B4-F2-93-F2-3D-92-2D-C2-69-7B-A6-4B-09
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Humvee/HumVeeInternal.cfg
+		SHA = 29-23-B8-94-97-C7-A2-A1-E1-22-52-D0-48-5A-F7-1B-46-51-1C-46-98-C6-8D-BB-42-24-8E-A2-7C-1E-23-30
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Humvee/HumVeeUA.cfg
+		SHA = 46-D7-DA-53-2F-1D-F6-DA-91-68-18-F9-A9-44-12-66-22-C9-2D-F7-B9-4C-2B-6E-8E-44-28-15-A8-5B-E8-4E
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Humvee/HVUA30CG.cfg
+		SHA = 9E-D0-28-E3-CD-11-99-1A-0A-38-8B-EF-BA-79-F0-FD-B8-81-1D-7C-2E-F9-62-20-3F-76-1B-FD-B3-5B-34-45
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Humvee/mk19gun.cfg
+		SHA = 7C-DD-12-9B-D7-5E-5C-08-15-C0-88-F7-28-84-62-C1-F3-37-77-0C-F0-78-2B-5E-3F-66-6C-5B-B1-73-B0-7A
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/KUB2K12/KUB2K12.cfg
+		SHA = B4-74-BC-5A-FD-CC-96-7E-8D-C9-0A-1B-D2-D3-F6-9C-A6-D0-B4-BE-C6-B1-D7-62-07-6A-4B-58-A1-21-5B-3C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/KUB2K12/KUB2K12Internal.cfg
+		SHA = 79-1D-57-F7-93-5D-E8-AC-F4-57-E8-4C-AF-9A-E1-F3-00-6D-5B-AF-0A-A0-78-E3-18-A6-DE-FC-42-C2-98-95
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/KUB2K12/KUB2K12launcher.cfg
+		SHA = 8E-6D-01-4B-4E-B5-94-D9-F5-7E-75-CE-70-D1-98-E8-5C-6A-B3-61-2A-AF-4A-37-D7-55-FF-70-A9-28-43-30
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Leopard2A6/LeoInternal.cfg
+		SHA = 7A-FE-2C-D2-0D-07-CB-75-97-97-5E-70-22-BC-27-68-0D-6C-D0-89-A5-D5-48-B9-03-FF-AD-B5-35-FA-37-9E
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Leopard2A6/Leopard2A6Turret.cfg
+		SHA = CE-69-F6-D4-41-F0-5C-B1-C4-E3-BE-8C-01-F9-1A-22-D8-88-DE-40-4B-9C-50-46-CE-6B-1B-01-D2-4A-25-59
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M113/M113.cfg
+		SHA = 9C-E1-36-54-24-30-0F-CC-D4-CA-C6-FF-D0-34-B2-D6-A9-96-10-68-DF-07-F0-7F-32-A5-58-39-69-78-82-26
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M113/M113Gun.cfg
+		SHA = 5F-FF-84-15-4F-00-55-83-08-2A-4B-CA-55-21-7B-1C-8A-69-AB-93-FC-56-63-DE-BD-B1-02-8A-B6-79-AF-B5
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M113/M113Internal.cfg
+		SHA = 88-A1-E5-18-B1-BD-4C-07-25-5E-8C-1C-48-89-00-3B-F9-F6-A2-B5-AA-CB-7A-74-97-06-DB-72-C2-0F-99-38
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M163VADS/M163VADS.cfg
+		SHA = C5-82-3C-0A-34-78-A5-34-F0-11-82-97-49-B4-E7-E4-7B-39-FE-71-BD-82-C0-37-5E-D3-36-2A-5C-95-52-3A
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M1AbramsSMA/M1SMA.cfg
+		SHA = 57-7F-FB-30-C5-58-F1-07-62-E3-22-5A-3B-9A-DD-57-14-9C-3A-BC-73-17-F0-1F-23-69-E2-F1-C1-B5-49-C8
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M1SM1/M1skirtArmor.cfg
+		SHA = B1-E6-49-7E-FA-DE-61-D6-B4-8E-B5-90-62-2D-17-07-EF-58-4F-46-B1-A6-BA-C7-94-5C-27-F9-A6-E6-20-23
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M1SM1/M1SM1internal.cfg
+		SHA = C5-CE-AF-FA-86-51-CB-9E-FC-FD-51-DA-5A-6A-45-7C-B0-BE-AA-32-E2-60-C4-B5-9F-CB-1B-24-B6-E8-E1-65
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M1SM1/M1SM1Turret.cfg
+		SHA = 32-91-B3-64-23-14-20-3A-2B-B6-CD-BF-97-55-10-BC-AB-BA-78-02-30-9A-3E-3B-AA-22-48-52-41-D1-EA-6A
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/M577SMRevE/m577rev16E.cfg
+		SHA = 3D-BB-13-F2-E8-73-D9-A2-B1-C9-D6-28-78-76-54-07-DA-30-7C-3E-0F-C0-CB-90-40-AC-FA-DF-C9-1A-AB-D8
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MilitaryWheel/MilWheel1.cfg
+		SHA = 8C-02-B3-E0-2B-AB-13-D9-EE-E1-CE-DB-E7-15-6F-7B-05-D4-17-88-5A-6D-17-BE-87-79-EE-2B-B3-42-A0-2A
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MilitaryWheel/MilWheelDual.cfg
+		SHA = 45-D6-98-C3-32-40-B0-BF-E7-17-3C-D6-93-A2-B1-BB-FC-63-39-D3-F2-A3-AB-48-D0-15-90-33-11-90-B1-80
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MilitaryWheel/MilWheelKF.cfg
+		SHA = 95-F8-81-01-3B-41-94-84-6E-5B-70-BC-30-BF-5E-BF-3F-05-CB-C6-5D-90-5F-F3-97-65-41-AC-33-00-31-43
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MilitaryWheel/MilWheelS.cfg
+		SHA = 6E-DE-E7-D1-1A-33-BB-8D-00-5E-4F-95-58-8A-FC-4F-8D-05-48-EA-77-D4-17-24-D1-B2-10-78-3F-DD-59-91
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MilitaryWheel/MilWheelSKF.cfg
+		SHA = FC-4C-10-E3-D1-DA-A8-3A-08-71-CA-EA-1A-9F-7C-04-8A-38-37-4D-87-97-D6-FA-9F-75-A5-C8-8B-D4-C4-2F
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MiscItems1/AFVFlareCM.cfg
+		SHA = 79-94-38-6D-8A-72-79-37-11-CB-24-69-51-38-EA-F0-2C-7E-1E-6E-D2-0E-25-F5-85-43-62-60-60-74-68-24
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MissileErektor/MissileErektor.cfg
+		SHA = CA-06-C7-3C-64-BB-EC-58-4F-28-61-5B-1B-2A-96-2C-A0-BD-78-7C-A2-46-F2-FC-84-0A-21-CF-24-80-82-58
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/MissileErektor/SkudD.cfg
+		SHA = 67-A8-58-15-DA-CD-3D-C5-AC-89-AB-0E-CA-04-EF-88-B6-C6-70-29-C5-FA-D9-67-18-47-CB-D4-47-1A-C5-92
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/OShCab/5thWheelKlaw.cfg
+		SHA = AB-66-04-0B-82-8C-03-A2-44-B1-7B-AF-7A-A5-51-EB-4C-B5-98-4A-31-74-BC-31-1F-65-DD-84-52-A6-28-8C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/OShCab/M1070.cfg
+		SHA = 40-04-CC-F0-18-44-1E-3F-5B-51-F2-2E-83-FD-73-DC-24-E3-DA-24-B1-99-99-15-F1-DB-CA-12-49-C2-B9-53
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/OShCab/OshCab.cfg
+		SHA = AC-C9-86-D7-CB-AA-CE-62-B8-7C-1B-A4-28-71-A3-D9-90-9E-35-3B-BC-D1-92-2F-8A-FE-02-10-DB-38-35-34
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/OShCab/OSHInternal.cfg
+		SHA = 60-63-53-16-51-A5-C5-30-D4-A1-05-A6-EA-40-43-3F-C1-8B-F0-4E-7C-A4-05-74-07-32-E1-5D-94-B8-5B-D1
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/OShCab/TruckChassis4.cfg
+		SHA = 7D-FC-BF-2E-FF-D9-CB-AC-54-4B-C4-BB-EC-BB-49-2A-E9-C4-10-7B-53-E6-4C-37-D2-35-1D-9F-66-15-E0-53
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/ReactiveArmor/AFVeraSkirtMK1.cfg
+		SHA = 0D-11-C6-6D-25-EC-01-8B-7A-EA-88-10-75-4E-B3-1E-24-09-45-0B-45-0B-2D-E5-34-0B-7E-2A-4C-8E-F0-19
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/ReactiveArmor/ReactivePanelPrototype.cfg
+		SHA = 14-0F-D8-37-0D-6C-F3-C4-C0-E4-E8-BD-DF-E1-0F-C0-98-11-43-2A-67-24-5E-AF-AA-12-88-57-CE-F1-5C-A5
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/ReactiveArmor/ReactivePanelPrototypeC.cfg
+		SHA = D8-98-04-1E-1B-E4-C1-1A-DF-67-15-0D-6E-E4-22-77-14-CF-E8-24-2D-D7-56-81-36-29-2B-17-C5-F1-DD-CD
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/ShilkaZSU/ShilkaZSU234turret.cfg
+		SHA = D4-C5-B8-E1-BC-73-DB-9C-99-B6-90-DA-DD-6C-55-A7-B8-6D-91-E9-A9-7B-09-BD-CB-0F-16-62-68-49-BC-7F
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/ShilkaZSU/ShilkaZSUHull.cfg
+		SHA = FF-0E-79-C5-E3-3C-9C-24-FE-43-A8-B0-9C-AE-60-9A-98-CE-82-A9-90-89-5D-17-60-9D-21-C5-B7-7B-66-30
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/StrikB/Strik1B.cfg
+		SHA = 93-17-1B-CF-72-1F-FC-E8-BF-57-7D-D1-73-53-39-DD-28-DD-59-74-09-6B-A1-51-1E-A8-9E-8B-F5-02-63-D9
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/StrikB/Strik2B.cfg
+		SHA = D3-22-2B-1F-8A-DA-CF-8D-02-D6-01-12-78-E8-31-93-8F-C4-78-31-8A-1D-6F-96-7C-71-2F-1A-61-FF-4D-1D
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/StrikB/StrikB1Internal.cfg
+		SHA = 23-52-F9-BB-69-A8-22-98-55-89-89-6C-71-7E-C2-7D-79-56-9A-16-D7-D1-44-C0-8B-76-51-4F-71-0D-D5-91
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/StrikB/StrikBInternal.cfg
+		SHA = 2E-63-A3-06-EA-4A-7B-A8-5B-14-0D-13-7C-DB-42-17-4D-7E-B8-6C-04-F5-29-37-10-E1-52-0F-B0-70-86-C5
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/T80Turret/T80Turret.cfg
+		SHA = FA-4B-A2-59-00-67-61-65-80-42-93-DA-A7-27-D8-C2-92-1A-81-7E-CC-A6-28-B2-FD-7C-40-24-1B-42-B0-3F
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/T90Turret/T90Turret.cfg
+		SHA = D1-E9-BA-01-8F-F4-39-88-0B-E0-30-A6-80-3C-BD-44-4D-E8-62-3C-EF-15-31-E4-60-80-96-70-E4-F8-0F-77
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrac3A5.cfg
+		SHA = 4C-69-23-95-88-28-D2-C1-B5-5E-20-59-2E-17-E5-42-90-2D-94-EF-AA-E4-DE-46-F5-D3-69-3F-48-C8-6A-73
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrac5A1CCN.cfg
+		SHA = D3-A5-AD-6E-F5-CF-86-47-F3-AA-64-97-D5-D0-C4-BC-F6-0F-96-FB-A4-20-14-13-4B-82-AE-23-5D-B6-D1-A1
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrac6RW7N.cfg
+		SHA = 90-A2-5F-A3-54-A6-CF-EB-57-13-E5-8F-84-F0-8D-6E-80-88-47-10-D6-38-16-54-34-DF-F4-4C-23-7D-7B-27
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrac7RW6N.cfg
+		SHA = AD-89-9B-D7-C2-1A-F9-5D-13-25-6B-A0-20-79-A6-B8-66-F9-42-87-66-E1-9B-BA-3E-99-66-AA-BB-F7-4C-7C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack10SportTrack1.cfg
+		SHA = 5D-AF-94-02-3C-9C-9A-98-FE-B1-8D-6D-12-75-55-55-77-A7-67-B4-E8-B5-79-25-DA-35-29-47-AD-20-FA-E1
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack11RW4BA.cfg
+		SHA = 72-67-69-4A-89-93-04-9A-50-8B-B7-AB-A5-E7-E9-46-0B-5F-3F-34-54-F4-63-8C-C6-07-DD-47-77-66-A9-78
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTracK12RW7Med.cfg
+		SHA = AD-3E-F3-9B-FB-23-22-86-86-1C-2C-0C-3E-8E-7B-1D-BB-66-02-A9-58-12-E7-4E-B2-05-C1-D8-00-39-3A-FC
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack14RW6Med.cfg
+		SHA = C6-18-AE-92-9F-CA-73-BC-9D-0C-EC-31-B2-46-40-93-73-7C-E1-5E-9D-F6-3A-EF-D5-10-BB-CB-8D-8A-8A-2C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTracK15RW11NB.cfg
+		SHA = A5-68-03-48-99-FC-46-19-B0-F6-FD-5A-0E-2E-B7-35-78-89-10-ED-DC-78-F7-56-2B-AF-9C-ED-77-1F-74-11
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack16RWST.cfg
+		SHA = FF-B6-F1-F2-B5-25-80-70-13-9C-BE-06-4B-E3-4A-3E-1F-BD-4D-B8-8E-08-7B-68-50-BB-E3-5C-54-4F-D1-39
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTracK17RW11NB.cfg
+		SHA = 6F-98-44-F2-C1-28-BB-B5-B3-8B-07-C2-D2-6B-36-28-C1-9F-1D-54-EB-A1-A2-AC-D2-97-A3-EC-FE-45-0B-42
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTracK18RW9HD.cfg
+		SHA = 91-7B-0E-8E-88-0B-8B-AC-CF-44-31-BB-ED-CE-A9-C0-67-0B-A4-F0-52-6A-F3-0D-B4-50-17-2B-2A-29-C4-FA
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTracK18RW9HDX2.cfg
+		SHA = 3F-E5-4E-4C-C4-DD-5C-63-F3-9D-01-B9-53-D1-31-1B-F3-60-03-F6-F3-2B-49-40-A1-D9-DB-73-65-6B-1D-51
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack1D.cfg
+		SHA = 4D-0C-CB-C9-7B-97-A8-2F-A8-96-91-5E-E3-3F-C5-A7-D6-7C-F5-18-02-A1-C5-DB-09-16-4C-6A-CF-10-F1-B0
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack85RWBN.cfg
+		SHA = E5-4C-74-3B-D4-98-E2-23-7F-23-40-64-C7-F5-7E-B0-BE-17-A7-5A-F4-83-3C-B0-74-5F-49-46-C4-59-61-6D
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Track1/SMTrack9B6RW.cfg
+		SHA = 52-04-AB-D7-0D-BC-8C-F5-0D-37-C6-B1-06-7F-4A-BF-0D-6B-31-DB-AD-10-E7-6A-31-AC-F2-BA-97-FD-64-64
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/TunguskaAAMT/TunguskaAAMT.cfg
+		SHA = 6A-03-8D-95-CC-44-D5-A2-49-4F-32-22-E6-C1-46-06-F7-91-77-91-2D-2A-D7-7C-4C-9B-AD-41-1D-BA-D1-72
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/TunguskaAAMT/57E6BGM/57E6BGM.cfg
+		SHA = 24-7B-02-64-B2-D0-55-58-99-2D-0F-B8-7C-BE-D1-7B-F8-F8-EC-D9-FC-53-EA-66-4E-8E-70-F5-15-DF-94-85
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/TunguskaAAMT/9M120ATmissile/AtakaAT.cfg
+		SHA = 08-79-29-4B-B0-0D-E1-6A-CE-F1-87-16-A1-9E-11-70-FA-20-BB-8A-0D-42-ED-FF-71-64-F6-46-95-ED-95-81
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/Wheel/m5771-1.cfg
+		SHA = 8C-0D-DA-A0-16-06-66-53-EB-26-EC-74-CA-0B-0D-66-9D-BC-03-7D-F0-3F-27-D5-25-B9-D3-CB-62-43-FC-7E
+	}
+	FILE
+	{
+		filename = SM_AFVs/Parts/WheelRevB/part.cfg
+		SHA = EF-8D-90-35-98-69-DB-95-97-DE-AA-7E-2D-EE-06-77-6B-A6-6C-33-D6-10-6E-29-3B-06-39-31-A5-E6-44-50
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/AFV_SquadWheel_Armor.cfg
+		SHA = FE-44-3B-58-DD-EB-AB-88-94-13-23-A3-26-E7-1E-36-F3-90-17-B9-AC-F2-37-A3-88-3E-2C-7A-B3-F2-34-50
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/Armor_SMI_AFV.cfg
+		SHA = 09-C3-74-B1-DC-D8-7A-DA-9D-DF-2C-67-F7-6B-38-49-46-F8-5F-7A-53-2F-EE-93-74-54-1F-19-53-7C-33-83
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/commandTankPatch.cfg
+		SHA = E1-1A-A5-3C-25-87-52-A1-26-C2-04-25-FC-FB-43-4E-6A-93-57-D8-61-1B-29-52-85-05-94-DA-BB-9F-F2-5D
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/KF-trackLongx2.cfg
+		SHA = 95-CF-57-87-B3-8C-F9-3D-F1-89-86-16-AC-CB-81-E4-DE-BD-B0-92-A7-3B-05-BC-14-77-0C-3F-4A-CD-61-44
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/SMTrackLong.cfg
+		SHA = FB-4A-B3-18-46-8E-51-A9-9A-67-A0-3C-61-72-78-00-87-BA-9C-26-F9-8E-34-0D-BD-14-5B-1A-CC-4E-F3-77
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/SM_AftvpaintMM.cfg
+		SHA = D0-2E-C6-1C-F3-0C-14-37-FC-60-27-08-B8-89-01-81-09-07-E7-D1-C1-8F-83-57-DB-1A-DE-C3-AD-C8-F7-2C
+	}
+	FILE
+	{
+		filename = SM_AFVs/Patches/TurretFix_CamKill_MM.cfg
+		SHA = 44-E5-41-8F-49-99-EF-8B-55-3B-27-31-2F-C2-D7-71-1D-F7-D2-03-E8-36-7E-8F-1C-3F-94-85-23-E0-C2-F8
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/AFVAlpha3int/internal.cfg
+		SHA = A9-51-6B-94-9F-E1-A2-11-0F-03-0A-71-A4-0D-18-F8-08-E0-F6-18-86-D5-56-65-6A-8F-07-D2-52-CF-D7-CC
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/ChallengerBInternal/ChallengerBInternal.cfg
+		SHA = 97-36-00-91-F0-D1-CF-6B-0D-CB-8F-70-29-69-CD-26-57-20-34-51-91-3B-F4-2E-DA-A6-F1-60-AD-9B-E4-D3
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/CoDHullInternal/CodHullInternal.cfg
+		SHA = 13-61-D5-7C-A2-D2-56-B2-DD-68-88-E8-47-A7-73-C9-1C-DE-97-4F-84-4B-AB-43-0A-C2-F3-27-DC-8A-0C-FE
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/FTint/internal.cfg
+		SHA = DB-4B-9C-9B-C5-31-7E-AB-2E-8E-42-F0-4B-7A-69-2F-21-E1-30-BA-1A-BE-93-33-F8-92-F4-06-8E-D9-C3-C6
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/Hemitt2Internal/Hemitt2Internal.cfg
+		SHA = B8-3D-61-70-4B-20-2A-1D-B5-73-C8-DE-12-68-8B-17-47-7C-29-DE-1F-9B-DF-A7-02-7B-62-AF-30-DF-00-61
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/hemi_Internal/internal.cfg
+		SHA = 3C-E0-AD-FE-F0-E3-35-65-95-D0-17-AF-48-A1-78-78-50-9F-42-08-B8-E0-74-02-32-15-0E-71-DC-C4-22-E6
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/M577Int/internal.cfg
+		SHA = F7-53-30-A5-EF-41-E1-D1-80-C4-8B-79-9E-E8-0C-69-18-52-D8-2D-5E-CF-DC-C1-2A-54-84-06-92-BF-36-8A
+	}
+	FILE
+	{
+		filename = SM_AFVs/Spaces/T80Internal/T80Internal.cfg
+		SHA = E5-AC-CD-47-6F-F5-FA-65-D5-69-9B-6D-34-17-C0-E4-4B-D4-D2-56-B3-05-2E-09-15-C0-FC-A1-21-B3-D4-3F
+	}
+	FILE
+	{
 		filename = SM_Armory/Agencies/Agents.cfg
 		SHA = 88-50-D6-C9-98-6F-BF-5C-B5-7D-3E-51-6B-86-37-04-30-AA-9F-5A-4C-89-DA-17-84-BA-3D-4C-02-7E-4D-03
 	}
@@ -5187,36 +5797,6 @@ FilesSHA
 	{
 		filename = SM_Armory/BulletDefs/SM_Bullets.cfg
 		SHA = 21-FB-AA-91-7D-2F-E1-8A-45-D7-58-8E-EC-47-90-B5-43-DE-75-51-C7-A9-5B-96-00-EF-8E-16-0D-B6-DD-7B
-	}
-	FILE
-	{
-		filename = SM_Armory/Extras/SeaMineV2B/SeaMineV2B.cfg
-		SHA = 2F-F8-6C-66-27-82-DD-D3-F3-C2-A0-84-17-EE-02-C8-B8-E8-A3-0D-7F-31-F4-1E-4B-CC-B9-CB-24-9F-A7-BA
-	}
-	FILE
-	{
-		filename = SM_Armory/Extras/SM_SecuBots/MiniBot16S/MiniBot16S.cfg
-		SHA = 32-37-2D-B9-FF-23-71-BB-48-99-6A-6A-42-9A-BE-14-0F-34-58-3E-C9-F0-9A-6E-33-86-A7-BA-68-F5-9A-E6
-	}
-	FILE
-	{
-		filename = SM_Armory/Extras/SM_SecuBots/SecuBot16/SecuBot16.cfg
-		SHA = 21-A4-7D-47-B2-69-A7-F8-1F-5A-B8-83-7A-1D-6E-E9-CF-95-4A-09-EA-D9-72-09-3E-4D-1D-86-62-97-E7-2C
-	}
-	FILE
-	{
-		filename = SM_Armory/Extras/SM_SecuBots/SecuBot16bad/SecuBot16bad.cfg
-		SHA = 34-8C-B3-0D-2A-17-8B-8D-9A-8F-9F-BC-C6-C8-50-CC-DB-F5-1A-F9-EB-29-DE-5E-14-8F-C1-2B-0F-32-C1-47
-	}
-	FILE
-	{
-		filename = SM_Armory/Extras/UniversalRadar/UniversalRadar.cfg
-		SHA = 72-B6-A0-A6-07-9B-50-FF-48-5E-7C-69-76-05-A0-4C-6F-D3-4D-AC-4D-BB-F2-9D-ED-9F-CD-56-23-D3-71-EE
-	}
-	FILE
-	{
-		filename = SM_Armory/Extras/weaponProbe/weaponProbe.cfg
-		SHA = D6-54-61-3A-0C-D5-12-5E-5D-6B-12-16-0B-36-5A-A4-0A-76-DF-D8-57-8F-8E-CB-91-A8-F9-E1-6B-A6-57-07
 	}
 	FILE
 	{
