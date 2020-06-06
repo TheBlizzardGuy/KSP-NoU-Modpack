@@ -1,0 +1,85 @@
+Executing: KerbalEngineer - 1.1.7.1
+Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.8.1-NoU\GameData\KerbalEngineer\KerbalEngineer.dll
+
+[Log 17:46:34.8548092]: images (UnityEngine.AssetBundle)
+[Log 17:49:50.0298111]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManager, Version=4.1.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: ClickThroughBlocker, Version=0.1.9.5, Culture=neutral, PublicKeyToken=null
+Assembly: FilterExtensions, Version=3.2.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: BlendshapeModelLoader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TexturesUnlimited, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ToolbarControl, Version=0.1.9.4, Culture=neutral, PublicKeyToken=null
+Assembly: AmazingCurveEditor, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Sigma88LoadingScreens, Version=0.5.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: AtmosphereAutopilot, Version=1.5.16.0, Culture=neutral, PublicKeyToken=null
+Assembly: AtmosphereAutopilot.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: AAPartCategory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: AviatorArsenal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: B9_Aerospace_WingStuff, Version=0.93.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory.Core, Version=1.3.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory, Version=1.3.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: CameraTools, Version=1.13.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: DestructionEffects, Version=1.11.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Atmosphere, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: CelestialShadows, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: CityLights, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: EVEManager, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: PartFX, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: PQSManager, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: ShaderLoader, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: Terrain, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: TextureConfig, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: Utils, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: _BuildManager, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: ModularFlightIntegrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: FerramAerospaceResearch, Version=0.15.11.4, Culture=neutral, PublicKeyToken=null
+Assembly: ferramGraph, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Firespitter, Version=7.3.7287.12431, Culture=neutral, PublicKeyToken=null
+Assembly: FShangarExtender, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.7.1, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalJointReinforcementNext, Version=4.1.15.0, Culture=neutral, PublicKeyToken=null
+Assembly: ACA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPWheel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: SM_MalFuncIndustries, Version=0.1.0.5, Culture=neutral, PublicKeyToken=null
+Assembly: AntiSubmarineWeapon, Version=0.8.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: PhysicsRangeExtender, Version=1.17.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ProceduralParts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: QuickStart, Version=2.2.0.10, Culture=neutral, PublicKeyToken=null
+Assembly: RealChute, Version=1.4.7228.28356, Culture=neutral, PublicKeyToken=null
+Assembly: RealHeat, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: RetractableLiftingSurface, Version=0.2.1.1, Culture=neutral, PublicKeyToken=null
+Assembly: scatterer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: SimpleFuelSwitch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: HoverCraft, Version=1.0.4.4, Culture=neutral, PublicKeyToken=null
+Assembly: VLSLauncher, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPSteamCtrlr, Version=0.0.1.35, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleBounce, Version=0.3.29.4, Culture=neutral, PublicKeyToken=null
+Assembly: KSPe.Light.TweakScale, Version=2.1.1.5, Culture=neutral, PublicKeyToken=null
+Assembly: Scale, Version=2.4.3.14, Culture=neutral, PublicKeyToken=null
+Assembly: VesselMover, Version=1.8.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
+
+[Log 17:49:50.0298111]: FlightEngineerCore->Awake
+[Log 17:49:54.2337571]: FlightEngineerCore->Start
+[Log 17:49:57.0155043]: FlightEngineerCore->OnDestroy
+[Log 17:51:18.4970475]: BuildAdvanced->OnDestroy
+[Log 17:51:22.2623404]: ActionMenu->Awake
+[Log 17:51:22.2623404]: FlightEngineerCore->Awake
+[Log 17:51:29.1131402]: ActionMenu->Start
+[Log 17:51:29.1321450]: FlightEngineerCore->Start
+[17:52:42.5247271]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <8b06541dac5a48b5bda3a8256a65689d>:0 
+[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <8b06541dac5a48b5bda3a8256a65689d>:0 
+
+[Log 17:52:43.2943145]: FlightEngineerCore->OnDestroy
+[Log 17:52:43.2983154]: ActionMenu->OnDestroy
+[Log 17:53:41.6388958]: BuildAdvanced->OnDestroy
+[Log 17:53:45.4812213]: ActionMenu->Awake
+[Log 17:53:45.4812213]: FlightEngineerCore->Awake
+[Log 17:53:52.8278873]: ActionMenu->Start
+[Log 17:53:52.8478917]: FlightEngineerCore->Start
+[Log 17:55:44.4849439]: FlightEngineerCore->OnDestroy
+[Log 17:55:45.0718133]: ActionMenu->OnDestroy
