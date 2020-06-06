@@ -5,9 +5,9 @@
     <string name="actionGroupDecreaseFlapDeflection">None</string>
     <rect name="flight_mainGuiRect">
         <xmin>0</xmin>
-        <xmax>0</xmax>
+        <xmax>230</xmax>
         <ymin>0</ymin>
-        <ymax>0</ymax>
+        <ymax>238</ymax>
     </rect>
     <rect name="flight_dataGuiRect">
         <xmin>0</xmin>
